@@ -310,7 +310,7 @@
     .row.mb-3.pt-4(data-aos="fade-right")
       .col-lg-10
         .bg_34.p-4
-          h3.ms-4.text-white Información de identificación personal (PII) en Cloud Computing    
+          h3.ms-4.text-white Información de identificación personal (PII) en <em>Cloud Computing </em>  
 
     .row.mb-4.mb-lg-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
