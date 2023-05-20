@@ -23,7 +23,7 @@
               i.fas.fa-check
               p.m-0.text-bold Las organizaciones están sometidas a la ley y esta las obliga a salvaguardar la información de sus usuarios.
 
-    p De manera tal que los expertos en temas de ciberseguridad cada día son más demandados con mayores posibilidades laborales.  Las empresas han entendido que la prevención es fundamental en la protección de sus activos informáticos, logrando así evitar vulnerabilidades que puedan desatar grandes daños en la organización, lo que hace que cada vez más se requiera tener profesionales con estas capacidades.
+    p De manera tal, que los expertos en temas de ciberseguridad son cada día más demandados y tienen mayores posibilidades laborales. Las empresas han entendido que la prevención es fundamental en la protección de sus activos informáticos, logrando así evitar vulnerabilidades que puedan desatar grandes daños en la organización, lo que hace que cada vez más se requiera tener profesionales con estas capacidades.
     p.mb-5 Observe la siguiente figura en un primer acercamiento a la definición de ciberseguridad:
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
@@ -83,7 +83,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/AiM-9Xp5hiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
 
-    p.mb-5 Las organizaciones cuentan con uno o varios tipos de red, combinando para cumplir objetivos específicos.  Una empresa puede iniciar con una oficina pequeña y una red LAN; pero con el tiempo abrir sedes en diferentes ciudades del país y contratar redes WAN para mayor seguridad, aunque con mayores costos o utilizar el canal público creando canales virtuales de conexión con menor costo; pero que le implica apostar a esquemas de seguridad eficientes.   
+    p.mb-5 Las organizaciones cuentan con uno o varios tipos de red, las cuales se pueden combinar para cumplir objetivos específicos. Una empresa puede iniciar con una oficina pequeña y una red LAN, pero con el tiempo abrir sedes en diferentes ciudades del país y contratar redes WAN para mayor seguridad, aunque con mayores costos, o utilizar el canal público creando canales virtuales de conexión con menor costo, pero que le implica apostar a esquemas de seguridad eficientes.   
 
     .row.justify-content-center.mb-4(data-aos="fade-down-right")
       .col-lg-3
@@ -133,7 +133,7 @@
           figure(data-aos="fade-down-right")
             img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema1/img15.svg', alt='')
 
-    p.mb-4 Profundice en las características de las capas del modelo y el trabajo que realiza cada una de estas a través de la revisión del siguiente recurso.
+    p.mb-4 A continuación, profundice en las características de las capas del modelo y el trabajo que realiza cada una de las etapas estudiadas en la anterior imagen.
 
     .bg_06.p-4.mb-5
       SlyderA(tipo="b")(data-aos="fade-right")
@@ -165,7 +165,7 @@
           .col-11.col-lg-5.mb-4.mb-lg-0
             div
               h4 Red
-              p Garantiza que los datos lleguen a su destino aun sin que el emisor y receptor estén conectados de forma directa.  Esta labor involucra dispositivos electrónicos enrutadores (<em>router</em>, en inglés).  En esta capa se establece el direccionamiento IP tanto de origen como de destino, se priorizan paquetes y la toma de decisiones para dirigirlos por la ruta más eficiente.  
+              p Garantiza que los datos lleguen a su destino aún sin que el emisor y receptor estén conectados de forma directa.  Esta labor involucra dispositivos electrónicos enrutadores (<em>router</em>, en inglés).  En esta capa se establece el direccionamiento IP tanto de origen como de destino, se priorizan paquetes y la toma de decisiones para dirigirlos por la ruta más eficiente.  
           .col-11.col-lg-5.mt-0.mt-md-4
             figure
               img.img-t.m-auto(src='@/assets/curso/tema1/img19.png', alt='Texto que describa la imagen')
@@ -279,7 +279,7 @@
                 td.text-bold(colspan="2") Red física
                 td(colspan="4") ETHERNET (IEEE 802.3), TOKEN RING, RS-232, FDDI Y OTROS. PPP, IEEE 802.2
                 td.text-center(colspan="3") Física 
-                td.text-center(colspan="3") 1,2
+                td.text-center(colspan="3") 1, 2
 
     p.mb-5 A continuación se definen algunos de los protocolos más importantes usados en el modelo TCP/IP.       
 
@@ -428,7 +428,7 @@
     .bg_07.p-4.mb-5
       .row.justify-content-center
         .col-lg-10
-          p Para obtener la dirección IP pública de un sitio siga el procedimiento que se detalla en el video: 
+          p Para obtener la dirección IPv6 de un sitio siga el procedimiento que se detalla en el video: 
 
           figure
             .video
@@ -545,7 +545,7 @@
         figure
           img.img-t.m-auto(src='@/assets/curso/tema1/img48.png')
       .col-lg-8(data-aos="fade-left")
-        p El enrutamiento que realizan las redes de datos consiste en la selección óptima de una ruta de una o múltiples redes.  En general los conceptos de enrutamiento son aplicables a cualquier tipo de red, que pueden ir desde redes telefónicas hasta la analogía con el transporte público.  En cuanto a la red de Internet se realiza un enrutamiento teniendo en cuenta que los paquetes o datos del protocolo de Internet IP viajan desde su origen hasta su objetivo final, la selección de estas rutas es posible gracias a dispositivos de <em>hardware</em> que comúnmente conocemos como <em>router</em> o enrutadores.
+        p El enrutamiento que realizan las redes de datos consiste en la selección óptima de una ruta o de una o múltiples redes.  En general los conceptos de enrutamiento son aplicables a cualquier tipo de red, que pueden ir desde redes telefónicas hasta la analogía con el transporte público.  En cuanto a la red de Internet se realiza un enrutamiento teniendo en cuenta que los paquetes o datos del protocolo de Internet IP viajan desde su origen hasta su objetivo final, la selección de estas rutas es posible gracias a dispositivos de <em>hardware</em> que comúnmente conocemos como <em>router</em> o enrutadores.
         p Imagine tratando de llegar a su lugar de trabajo identificando posibles rutas.  Es la ruta más corta en cuanto a recorrido, pero que normalmente presenta trancones y tráfico lento, y la ruta rápida en la que, aunque el recorrido es mucho mayor, avanza a mayor velocidad.  Tal como se muestra en la figura 4 los <em>router</em> deben tomar ese tipo de decisiones, determinando cuál camino será el más eficiente para llegar al destino y realizando el monitoreo permanente de la red.
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
@@ -593,7 +593,8 @@
                   |	La ruta que utiliza un camino estático para compartir la información es conocida.
                 li 
                   i.fas.fa-check-circle
-                  |	El consumo del ancho de banda es mucho menor que los protocolos utilizados para el routing dinámico, ya que no es necesario utilizar ciclos de CPU para el cálculo y la comunicación de rutas.
+                  |	El consumo del ancho de banda es mucho menor que los protocolos utilizados para el 3
+                  <em>routing</em> dinámico, ya que no es necesario utilizar ciclos de CPU para el cálculo y la comunicación de rutas.
 
       .col-lg-6(data-aos="fade-left")
         .bg_13.p-4.px-5
@@ -891,7 +892,7 @@
     .row.align-items-center.mb-5.pt-5
       .col-lg-8.order-last.order-lg-first(data-aos="fade-right")
         p En sistemas informáticos, la <b>vulnerabilidad</b> se entiende como la incapacidad de un sistema para protegerse permitiendo ser atacado y recibiendo daño. Estas debilidades en los sistemas son ocasionadas normalmente por no contar con una eficiente protección ante amenazas externas, el no realizar actualizaciones periódicas, posibles fallos en la programación, entre otras causas.
-        p A estas vulnerabilidades se les denomina agujeros de seguridad y aunque tienen la ventaja de que una vez descubierta la fall, se pueden solucionar, también dejan los datos y sistemas de una empresa en riesgo, comprometiendo la integridad, privacidad y disponibilidad de la información.  Los huecos de seguridad exponen los sistemas a diversas amenazas que aumentan el riesgo de que se produzcan ataques en cualquier momento, enfrentando a las empresas a complejas situaciones.        
+        p A estas vulnerabilidades se les denomina agujeros de seguridad y aunque tienen la ventaja de que una vez descubierta la falla, se pueden solucionar, también dejan los datos y sistemas de una empresa en riesgo, comprometiendo la integridad, privacidad y disponibilidad de la información.  Los huecos de seguridad exponen los sistemas a diversas amenazas que aumentan el riesgo de que se produzcan ataques en cualquier momento, enfrentando a las empresas a complejas situaciones.        
       .col-lg-4.mb-4.mb-lg-0.order-first.order-lg-last(data-aos="fade-left")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema1/img77.png')    

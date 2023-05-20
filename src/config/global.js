@@ -189,7 +189,7 @@ export default {
       tema:
         'Conceptos y fundamentos asociados a la gestión de la ciberseguridad',
       referencia:
-        'Arroyo, D., Gayoso, V.  y Hernández, L.  (2020). Ciberseguridad. CSIC. Los Libros de la Catarata. ',
+        'Arroyo, D., Gayoso, V.  y Hernández, L.  (2020). <em>Ciberseguridad</em>. CSIC. Los Libros de la Catarata. ',
       tipo: 'Libro',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_elibroELB172144',
@@ -198,35 +198,35 @@ export default {
       tema:
         'Conceptos y fundamentos asociados a la gestión de la ciberseguridad',
       referencia:
-        'Cano, J.  (2022).  Prospectiva de ciberseguridad nacional para Colombia a 2030. Revista Científica General José María Córdova.  ',
+        'Cano, J.  (2022).  Prospectiva de ciberseguridad nacional para Colombia a 2030. <em>Revista Científica General José María Córdova.</em>',
       tipo: 'Artículo',
       link:
-        'https://revistacientificaesmic.com/index.php/esmic/article/view/866/836 ',
+        'https://revistacientificaesmic.com/index.php/esmic/article/view/866',
     },
     {
       tema: 'Enrutamiento IP',
       referencia:
-        'Fernández, L. (2022). Conoce qué es la tabla de enrutamiento en un router. Redeszone.',
+        'Fernández, L. (2022). <em>Conoce qué es la tabla de enrutamiento en un router</em>. Redeszone.',
       tipo: 'Página web',
       link:
         'https://www.redeszone.net/tutoriales/redes-cable/tabla-enrutamiento-router-que-es/',
     },
     {
       tema: 'IPv4 e IPv6',
-      referencia: 'Freda, A. 2021. ¿Qué diferencia hay entre IPv4 e IPv6? AVG.',
+      referencia: 'Freda, A. 2021. <em>¿Qué diferencia hay entre IPv4 e IPv6? AVG</em>.',
       tipo: 'Página web',
       link: 'https://www.avg.com/es/signal/ipv4-vs-ipv6',
     },
     {
       tema: 'Protocolo TPC/IP',
-      referencia: 'IBM. Protocolos TCP/IP. (s.f.). IBM.',
+      referencia: '<em>IBM. Protocolos TCP/IP. (s.f.). IBM.</em>',
       tipo: 'Página web',
       link:
         'https://www.ibm.com/docs/es/aix/7.2?topic=protocol-tcpip-protocols',
     },
     {
       tema: 'Tipos de redes',
-      referencia: 'IBM. Redes físicas. (s.f.). IBM.',
+      referencia: '<em>IBM. Redes físicas. (s.f.). IBM.</em>',
       tipo: 'Página web',
       link:
         'https://www.ibm.com/docs/es/aix/7.2?topic=concepts-physical-networks',

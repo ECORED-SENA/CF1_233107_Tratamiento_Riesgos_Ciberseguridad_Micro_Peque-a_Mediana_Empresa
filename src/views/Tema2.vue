@@ -251,8 +251,8 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="ISO/IEC 27000")
             .col-lg-11
-              span.font_text1.text-bold Sistemas de gestión de la seguridad de la información: 
-              | descripción general y vocabulario.
+              span.font_text1.text-bold <br>Sistemas de gestión de la seguridad de la información: 
+              | descripción general y vocabulario.</br>
               p.mt-4 Proporciona una descripción general del SGSI y los términos y definiciones comúnmente utilizados en la familia de estándares del SGSI para garantizar coherencia; toda la familia de Normas 27000 se basa en los términos y definiciones proporcionados en ISO/IEC 27000.
           .row(titulo="ISO/IEC 27003")
             .col-lg-11
@@ -684,7 +684,7 @@
               figure
                 img(src='@/assets/curso/tema2/img76.svg', alt='')
           h4 Prevención:
-          p consiste en la implementación de procedimientos y controles eficientes que detengan y minimicen los posibles daños que ocasionen situaciones de ciberseguridad.
+          p Consiste en la implementación de procedimientos y controles eficientes que detengan y minimicen los posibles daños que ocasionen situaciones de ciberseguridad.
 
       .col-sm-6.col-lg-3.mb-4.mb-sm-0(data-aos="fade-right")        
         .tarjeta--boton.color-acento-contenido.p-4
@@ -693,7 +693,7 @@
               figure
                 img(src='@/assets/curso/tema2/img77.svg', alt='')
           h4 Protección y detección:
-          p se establecen un conjunto de controles previstos para gestionar la seguridad y el monitoreo de eventos de ciberseguridad, a fin de que se puedan detectar y aplicar medidas de prevención ante este tipo de circunstancias.
+          p Se establecen un conjunto de controles previstos para gestionar la seguridad y el monitoreo de eventos de ciberseguridad, a fin de que se puedan detectar y aplicar medidas de prevención ante este tipo de circunstancias.
 
       .col-sm-6.col-lg-3.mb-4.mb-sm-0(data-aos="fade-left")        
         .tarjeta--boton.color-acento-contenido.p-4
@@ -702,7 +702,7 @@
               figure
                 img(src='@/assets/curso/tema2/img78.svg', alt='')
           h4 Respuesta y comunicación:
-          p se debe preparar para reaccionar ante situaciones relacionadas con la ciberseguridad, realizando acciones que ayuden a minimizar su impacto.
+          p Se debe preparar para reaccionar ante situaciones relacionadas con la ciberseguridad, realizando acciones que ayuden a minimizar su impacto.
 
       .col-sm-6.col-lg-3.mb-4.mb-sm-0(data-aos="fade-left")        
         .tarjeta--boton.color-acento-contenido.p-4
@@ -711,9 +711,9 @@
               figure
                 img(src='@/assets/curso/tema2/img79.svg', alt='')
           h4 Recuperación y aprendizaje:
-          p es la capacidad para restaurar y recuperar los sistemas informáticos y la información ante eventuales incidentes de ciberseguridad.  Con cada evento se debe mejorar para no incurrir nuevamente en ello.
+          p Es la capacidad para restaurar y recuperar los sistemas informáticos y la información ante eventuales incidentes de ciberseguridad.  Con cada evento se debe mejorar para no incurrir nuevamente en ello.
 
-    p Teniendo en cuenta los cuatro elementos mencionados es posible implementar una serie de fases que contribuyan de manera organizada a implementar la estandarización, véalo:
+    p Teniendo en cuenta los cuatro elementos mencionados, es posible implementar una serie de fases que contribuyan de manera organizada a implementar la estandarización, como se presenta a continuación.
 
     .row.justify-content-center.mb-5(data-aos="fade-down-right")
       .col-lg-10

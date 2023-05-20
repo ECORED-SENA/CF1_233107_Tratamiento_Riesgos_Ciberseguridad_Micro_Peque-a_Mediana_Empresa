@@ -353,7 +353,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-down-right")
       .col-lg-10
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
-          .row.justify-content-around(titulo="La gestión de riesgos está integrada en los procesos de la organización.")
+          .row.justify-content-around(titulo="La gestión de riesgos está integrada en los procesos de la organización")
             .col-lg-8
               ul.lista-ul--color
                 li 
@@ -365,7 +365,7 @@
             .col-lg-3
               img.img-t.mx-auto(src='@/assets/curso/tema3/img27.svg', alt='') 
 
-          .row.justify-content-around(titulo="La gestión de riesgos es estructurada e integral.")
+          .row.justify-content-around(titulo="La gestión de riesgos es estructurada e integral")
             .col-lg-8
               ul.lista-ul--color
                 li 
@@ -376,7 +376,7 @@
                   | La gestión de riesgos está estructurada con lineamientos y procedimientos a seguir para mantener la productividad y eficacia.
             .col-lg-3
               img.img-t.mx-auto(src='@/assets/curso/tema3/img28.svg', alt='') 
-          .row.justify-content-around(titulo="La gestión de riesgos se adapta a su organización.")
+          .row.justify-content-around(titulo="La gestión de riesgos se adapta a su organización")
             .col-lg-8
               ul.lista-ul--color
                 li 
@@ -387,7 +387,7 @@
                   | Cuando el contexto se establece en entornos internos y externos, los objetivos se pueden capturar y la gestión de riesgos se puede personalizar para la organización.
             .col-lg-3
               img.img-t.mx-auto(src='@/assets/curso/tema3/img29.svg', alt='') 
-          .row.justify-content-around(titulo="La gestión de riesgos es inclusiva y transparente.")
+          .row.justify-content-around(titulo="La gestión de riesgos es inclusiva y transparente")
             .col-lg-8
               ul.lista-ul--color
                 li 
@@ -400,7 +400,7 @@
               .row.justify-content-center
                 .col-auto
                   img.img-t.mx-auto(src='@/assets/curso/tema3/img30.svg', alt='') 
-          .row.justify-content-around(titulo="La gestión de riesgos es dinámica, fluida y receptiva al cambio.")
+          .row.justify-content-around(titulo="La gestión de riesgos es dinámica, fluida y receptiva al cambio")
             .col-lg-8
               ul.lista-ul--color
                 li 
@@ -415,7 +415,7 @@
             .col-lg-3
               img.img-t.mx-auto(src='@/assets/curso/tema3/img31.svg', alt='') 
 
-          .row.justify-content-around(titulo="La gestión de riesgos toma en consideración la mejor información disponible.")
+          .row.justify-content-around(titulo="La gestión de riesgos toma en consideración la mejor información disponible")
             .col-lg-8
               ul.lista-ul--color
                 li 
@@ -429,7 +429,7 @@
                   | Toda la información conocida debe estar disponible para las partes interesadas.
             .col-lg-3
               img.img-t.mx-auto(src='@/assets/curso/tema3/img32.svg', alt='') 
-          .row.justify-content-around(titulo="La gestión de riesgos tiene en cuenta los factores humanos y la cultura de la empresa.")
+          .row.justify-content-around(titulo="La gestión de riesgos tiene en cuenta los factores humanos y la cultura de la empresa")
             .col-lg-8
               ul.lista-ul--color
                 li 
