@@ -13,15 +13,15 @@
           img.img-t.mx-auto(src='@/assets/curso/tema1/img01.png', alt='')
       .col-lg-8(data-aos="fade-left")
         p Para entrar al mundo de la ciberseguridad es clave conocer algunos conceptos asociados que permitan entender su funcionamiento, arquitectura, implementación y utilidad.  Manejar estos conceptos permite tener un panorama claro al enfrentar diferentes escenarios, ya que cada organización cuenta con su propia implementación de las Tecnologías de la Información y la Comunicación.
-        p A medida que evoluciona la ciencia la dependencia o confianza en los sistemas informáticos sigue aumentando, la tecnología se incorpora cada vez más en todo tipo de organizaciones ya sean privadas o públicas. El uso de nuevas tecnologías y la necesidad de conexión con el mundo exterior trae consigo nuevos desafíos, que obligan a las empresas a pensar en la ciberseguridad como un tema de vital importancia, considerando que: 
+        p A medida que evoluciona la ciencia la dependencia o confianza en los sistemas informáticos sigue aumentando, la tecnología se incorpora cada vez más en todo tipo de organizaciones ya sean privadas o públicas. El uso de nuevas tecnologías y la necesidad de conexión con el mundo exterior trae consigo nuevos desafíos, que obligan a las empresas a pensar en la ciberseguridad como un tema de vital importancia, considerando que:
         .bg_01.p-4.pb-2
           ul.lista-ul--color
             li
               i.fas.fa-check
-              p.m-0.text-bold La información que se maneja dentro de las empresas es el activo más importante.
-            li 
+              strong La información que se maneja dentro de las empresas es el activo más importante.
+            li
               i.fas.fa-check
-              p.m-0.text-bold Las organizaciones están sometidas a la ley y esta las obliga a salvaguardar la información de sus usuarios.
+              strong Las organizaciones están sometidas a la ley y esta las obliga a salvaguardar la información de sus usuarios.
 
     p De manera tal, que los expertos en temas de ciberseguridad son cada día más demandados y tienen mayores posibilidades laborales. Las empresas han entendido que la prevención es fundamental en la protección de sus activos informáticos, logrando así evitar vulnerabilidades que puedan desatar grandes daños en la organización, lo que hace que cada vez más se requiera tener profesionales con estas capacidades.
     p.mb-5 Observe la siguiente figura en un primer acercamiento a la definición de ciberseguridad:
@@ -33,10 +33,10 @@
     .row.justify-content-center
       .col-lg-10
         figure(data-aos="fade-down-right")
-          img.img-t.m-auto.mb-5(src='@/assets/curso/tema1/img02.svg', alt='')
+          img.img-t.m-auto.mb-5(src='@/assets/curso/tema1/img02b.svg', alt='Ciberseguridad')
 
       p La ciberseguridad pretende proteger computadoras, dispositivos móviles, sistemas electrónicos, servidores de aplicaciones, base de datos, redes, entre otros, de la posibilidad de amenazas que se conviertan en ataques afectando los activos informáticos. En ese sentido se hace relevante conocer las arquitecturas de red, los protocolos y cómo funciona el transporte de los datos para poder crear planes, procedimientos y políticas usando una metodología que ayude a mitigar el riesgo y darle garantías a los usuarios y a los sistemas.
-      p.mb-5 Avance sobre los siguientes conceptos clave en el abordaje de la ciberseguridad:  
+      p.mb-5 Avance sobre los siguientes conceptos clave en el abordaje de la ciberseguridad:
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-12.col-md-7
@@ -70,20 +70,20 @@
             figure.mb-5
               img.img-t.m-auto(src='@/assets/curso/tema1/img08.png')
             h4.text-white Usuario final
-            p.text-white La principal preocupación de las organizaciones, ya que son las personas más difíciles de controlar, pudiendo incumplir con buenas prácticas de seguridad establecidas (ingreso accidental o intencional de virus al sistema). 
+            p.text-white La principal preocupación de las organizaciones, ya que son las personas más difíciles de controlar, pudiendo incumplir con buenas prácticas de seguridad establecidas (ingreso accidental o intencional de virus al sistema).
 
     Separador
 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
       h2 1.1 Tipos de redes
 
-    p Las redes que se presentan a continuación están relacionadas con la interconexión física que se puede realizar entre computadoras, servidores, dispositivos móviles, impresoras, dispositivos electrónicos, entre otros. Estas redes se clasifican en diferentes tipos de acuerdo con su implementación, dependiendo del tamaño y la cobertura de la red de ordenadores o dispositivos electrónicos vinculados.  Revise en el siguiente video los tipos de redes más importantes. 
+    p Las redes que se presentan a continuación están relacionadas con la interconexión física que se puede realizar entre computadoras, servidores, dispositivos móviles, impresoras, dispositivos electrónicos, entre otros. Estas redes se clasifican en diferentes tipos de acuerdo con su implementación, dependiendo del tamaño y la cobertura de la red de ordenadores o dispositivos electrónicos vinculados.  Revise en el siguiente video los tipos de redes más importantes.
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/AiM-9Xp5hiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/AiM-9Xp5hiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p.mb-5 Las organizaciones cuentan con uno o varios tipos de red, las cuales se pueden combinar para cumplir objetivos específicos. Una empresa puede iniciar con una oficina pequeña y una red LAN, pero con el tiempo abrir sedes en diferentes ciudades del país y contratar redes WAN para mayor seguridad, aunque con mayores costos, o utilizar el canal público creando canales virtuales de conexión con menor costo, pero que le implica apostar a esquemas de seguridad eficientes.   
+    p.mb-5 Las organizaciones cuentan con uno o varios tipos de red, las cuales se pueden combinar para cumplir objetivos específicos. Una empresa puede iniciar con una oficina pequeña y una red LAN, pero con el tiempo abrir sedes en diferentes ciudades del país y contratar redes WAN para mayor seguridad, aunque con mayores costos, o utilizar el canal público creando canales virtuales de conexión con menor costo, pero que le implica apostar a esquemas de seguridad eficientes.
 
     .row.justify-content-center.mb-4(data-aos="fade-down-right")
       .col-lg-3
@@ -95,10 +95,10 @@
             .col-lg-10.pt-4
               p Conectarse a una red pública genera desafíos importantes para salvaguardar la información, por lo que se recomienda tomar medidas de protección como:
               ul.lista-ul--color
-                li 
+                li
                   i.fas.fa-check-circle
                   p.m-0.text-bold Instalación de <em>firewall</em>, ya sean físicos o de <em>software</em> como los instalados en las computadoras.
-                li 
+                li
                   i.fas.fa-check-circle
                   p.m-0.text-bold Utilización de <em>router</em> avanzados con capacidad de bloqueos de paquetes sospechosos.
 
@@ -113,7 +113,7 @@
           img.img-t.m-auto(src='@/assets/curso/tema1/img12.png')
       .col-lg-8(data-aos="fade-left")
         p El modelo de interconexión de sistemas abiertos, creado por la Organización Internacional de Normalización (ISO) proporciona a los diversos sistemas de tecnología de la informática estándares para que se comuniquen entre sí.
-        p Este modelo se divide en siete capas para realizar las actividades que la red necesita, asociando a cada capa una serie de protocolos, con el propósito de abordar la complejidad que conlleva la comunicación a través de problemas sencillos.  
+        p Este modelo se divide en siete capas para realizar las actividades que la red necesita, asociando a cada capa una serie de protocolos, con el propósito de abordar la complejidad que conlleva la comunicación a través de problemas sencillos.
         p Se plantea una estructura jerarquizada en la que cada una de las capas realiza trabajos para la capa que está por encima de ella, devolviendo resultados y solicitando servicios a la capa ubicada en la parte inferior.
 
     p.mb-5 La siguiente imagen muestra las capas del modelo de interconexión de sistemas abiertos y su correspondiente descripción.
@@ -126,12 +126,12 @@
       .col-lg-12
         .bg_04.p-4.d-none.d-lg-block
           figure(data-aos="fade-down-right")
-            img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema1/img13.svg', alt='')
+            img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema1/img13b.svg', alt='')
     .row.justify-content-center.mb-4
       .col-12.col-md-8
         .bg_05.p-4.d-lg-none.d-md-block
           figure(data-aos="fade-down-right")
-            img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema1/img15.svg', alt='')
+            img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema1/img15b.svg', alt='')
 
     p.mb-4 A continuación, profundice en las características de las capas del modelo y el trabajo que realiza cada una de las etapas estudiadas en la anterior imagen.
 
@@ -139,7 +139,7 @@
       SlyderA(tipo="b")(data-aos="fade-right")
         .row.justify-content-center.align-items-center
           .col-11.col-lg-5.mb-4.mb-lg-0
-            div 
+            div
               h4 Física
               p En esta primera capa se encuentran los dispositivos físicos encargados de transportar los datos: los cables de red (de cobre para redes LAN o de fibra óptica para el transporte de información a grandes distancias), los <em>router</em> para el direccionamiento de paquetes, los <em>switch</em> que ayudan a la agrupación de varios equipos en una misma red, y en general todos los componentes que de alguna u otra manera se encargan de llevar información de un lado al otro.
           .col-11.col-lg-5.mt-0.mt-md-4
@@ -149,15 +149,15 @@
           .col-11.col-lg-5.mb-4.mb-lg-0
             div
               h4 Vínculo de los datos
-              p Realiza la verificación de lo que entrega el medio físico en la búsqueda de errores para que, en caso de encontrarlos, se pueda corregir.  También controla el flujo de datos que se transmiten. 
-              p Presenta dos subcapas: 
+              p Realiza la verificación de lo que entrega el medio físico en la búsqueda de errores para que, en caso de encontrarlos, se pueda corregir.  También controla el flujo de datos que se transmiten.
+              p Presenta dos subcapas:
               ul.lista-ul--color
-                li 
+                li
                   i.fas.fa-angle-right
-                  p.m-0 <b>MAC (<em>Media Access Control</em>).</b>  Conecta varios equipos de cómputo a una red con una dirección física (dirección MAC) que identifica la ubicación del equipo para el envío y la recepción.  
-                li 
+                  p.m-0 <b>MAC (<em>Media Access Control</em>).</b>  Conecta varios equipos de cómputo a una red con una dirección física (dirección MAC) que identifica la ubicación del equipo para el envío y la recepción.
+                li
                   i.fas.fa-angle-right
-                  p.m-0 <b>LLC (<em>Logical Link Control</em>).</b>  Maneja el control de flujo de los datos de la red.   
+                  p.m-0 <b>LLC (<em>Logical Link Control</em>).</b>  Maneja el control de flujo de los datos de la red.
           .col-11.col-lg-5.mt-0.mt-md-4
             figure
               img.img-t.m-auto(src='@/assets/curso/tema1/img18.png', alt='Texto que describa la imagen')
@@ -165,7 +165,7 @@
           .col-11.col-lg-5.mb-4.mb-lg-0
             div
               h4 Red
-              p Garantiza que los datos lleguen a su destino aún sin que el emisor y receptor estén conectados de forma directa.  Esta labor involucra dispositivos electrónicos enrutadores (<em>router</em>, en inglés).  En esta capa se establece el direccionamiento IP tanto de origen como de destino, se priorizan paquetes y la toma de decisiones para dirigirlos por la ruta más eficiente.  
+              p Garantiza que los datos lleguen a su destino aún sin que el emisor y receptor estén conectados de forma directa.  Esta labor involucra dispositivos electrónicos enrutadores (<em>router</em>, en inglés).  En esta capa se establece el direccionamiento IP tanto de origen como de destino, se priorizan paquetes y la toma de decisiones para dirigirlos por la ruta más eficiente.
           .col-11.col-lg-5.mt-0.mt-md-4
             figure
               img.img-t.m-auto(src='@/assets/curso/tema1/img19.png', alt='Texto que describa la imagen')
@@ -175,10 +175,10 @@
               h4 Transporte
               p Nivel responsable de la confiabilidad del transporte, a través de dos protocolos:
               ul.lista-ul--color
-                li 
+                li
                   i.fas.fa-angle-right
-                  p <b>TCP:</b> establece una sesión entre dos ordenadores, garantizando fidelidad con la creación de una secuencia de datos para la entrega. Es un protocolo lento que verifica que la recepción de los paquetes esté completa y solicita el reenvío en caso de faltantes. 
-                li 
+                  p <b>TCP:</b> establece una sesión entre dos ordenadores, garantizando fidelidad con la creación de una secuencia de datos para la entrega. Es un protocolo lento que verifica que la recepción de los paquetes esté completa y solicita el reenvío en caso de faltantes.
+                li
                   i.fas.fa-angle-right
                   p <b>UDP:</b> se ofrece sin conexión y sin establecer sesión entre ordenadores.  Es mucho más rápido porque solo entrega información en el menor tiempo posible, sin verificar completitud.
           .col-11.col-lg-5.mt-0.mt-md-4
@@ -232,26 +232,26 @@
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema1/img25.png', alt='')
-      
+
     .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
       h5 Figura 3.
       span <em>Modelo TCP/IP</em>
-    
+
     .bg_08.p-2.p-lg-5.mb-5
       .row.justify-content-center
         .col-lg-9
           figure(data-aos="fade-down-right")
             img.img-t.m-auto.my-5(src='@/assets/curso/tema1/img27.svg', alt='')
 
-    p.mb-5 Para cada una de las capas del modelo TCP/IP se establece una serie de protocolos, cada uno con una función específica, que se presentan en la siguiente tabla con su respectiva equivalencia en el modelo OSI.  
+    p.mb-5 Para cada una de las capas del modelo TCP/IP se establece una serie de protocolos, cada uno con una función específica, que se presentan en la siguiente tabla con su respectiva equivalencia en el modelo OSI.
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
       h5 Tabla 1.
       span <em>Modelo TCP/IP con equivalencia al modelo OSI</em>
 
     .row.justify-content-center(data-aos="fade-down-right")
-      .col-lg-12    
-        .tabla-a.color-acento-contenido.mb-5 
+      .col-lg-12
+        .tabla-a.color-acento-contenido.mb-5
           table
             thead
               tr.bg_color1
@@ -263,40 +263,40 @@
               tr
                 td.text-bold(colspan="2") Aplicación
                 td(colspan="4") NFS, NIS, DNS, LDAP, TELNET, FTP, RLOGIN, RSH, RCP, RIP, RDISC, SNMP Y OTROS.
-                td.text-center(colspan="3") Aplicación, sesión, presentación 
+                td.text-center(colspan="3") Aplicación, sesión, presentación
                 td.text-center(colspan="3") 5, 6, 7
               tr
                 td.text-bold(colspan="2") Transporte
-                td(colspan="4") TCP, UDP, SCTP 
+                td(colspan="4") TCP, UDP, SCTP
                 td.text-center(colspan="3") Transporte
                 td.text-center(colspan="3") 4
               tr
                 td.text-bold(colspan="2") Internet
-                td(colspan="4") IPv4, IPv6, ARP, ICMP 
+                td(colspan="4") IPv4, IPv6, ARP, ICMP
                 td.text-center(colspan="3") Red
                 td.text-center(colspan="3") 3
               tr
                 td.text-bold(colspan="2") Red física
                 td(colspan="4") ETHERNET (IEEE 802.3), TOKEN RING, RS-232, FDDI Y OTROS. PPP, IEEE 802.2
-                td.text-center(colspan="3") Física 
+                td.text-center(colspan="3") Física
                 td.text-center(colspan="3") 1, 2
 
-    p.mb-5 A continuación se definen algunos de los protocolos más importantes usados en el modelo TCP/IP.       
+    p.mb-5 A continuación se definen algunos de los protocolos más importantes usados en el modelo TCP/IP.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12.col-md-8
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img29.svg')
               .col-lg-8.col-xl-7.col-xxl-8
                 h4 Internet <em>Protocol</em>
-            p Es el núcleo de todo el modelo. Se utiliza para especificar la dirección IP determinando así, la ruta que tiene que seguir el paquete. 
+            p Es el núcleo de todo el modelo. Se utiliza para especificar la dirección IP determinando así, la ruta que tiene que seguir el paquete.
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img30.svg')
               .col-lg-8.col-xl-7.col-xxl-8
@@ -304,7 +304,7 @@
             p Provee mensajes de diagnóstico y notificación de errores cuando fallan los datagramas IP.
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img31.svg')
               .col-lg-8.col-xl-7.col-xxl-8
@@ -312,7 +312,7 @@
             p Ayuda al protocolo IP a guiar los datos, resolviendo la dirección de <em>hardware</em> o MAC.
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img32.svg')
               .col-lg-8.col-xl-7.col-xxl-8
@@ -320,7 +320,7 @@
             p Lo mismo que el ARP, pero al revés, es decir, dada la MAC devuelve la IP.
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img33.svg')
               .col-lg-8.col-xl-7.col-xxl-8
@@ -328,7 +328,7 @@
             p Convierte la dirección IP privada a una pública.
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img34.svg')
               .col-lg-8.col-xl-7.col-xxl-8
@@ -336,7 +336,7 @@
             p Utilizado por los <em>router</em> para intercambiar información de las distintas redes y encaminar con mayor eficiencia los paquetes.
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img35.svg')
               .col-lg-8.col-xl-7.col-xxl-8
@@ -344,7 +344,7 @@
             p Garantiza que los paquetes lleguen sin errores y en secuencia, uno después de otro.
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img36.svg')
               .col-lg-8.col-xl-7.col-xxl-8
@@ -352,7 +352,7 @@
             p Implementa una transmisión no fiable (no está exenta de errores), usada en aplicaciones de <em>streaming</em> y con actualizaciones en tiempo real.
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img37.svg')
               .col-lg-8.col-xl-7.col-xxl-8
@@ -360,7 +360,7 @@
             p Establece una transmisión fiable de datos. Incluye detección de errores y formas de recuperar los datos perdidos.
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img38.svg')
               .col-lg-8.col-xl-7.col-xxl-8
@@ -368,7 +368,7 @@
             p Proporciona servicios de red que conectan la interfaz con el sistema operativo para que el usuario interactúe con la máquina (enviar correos, descargar información, etc.).
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img39.svg')
               .col-lg-8.col-xl-7.col-xxl-8
@@ -376,7 +376,7 @@
             p Transferencia interactiva de archivos.
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img40.svg')
               .col-lg-8.col-xl-7.col-xxl-8
@@ -384,7 +384,7 @@
             p Iniciación de la sesión de forma remota en máquinas de la red.
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img41.svg')
               .col-lg-8.col-xl-7.col-xxl-8
@@ -392,7 +392,7 @@
             p Transferir archivos que forman las páginas <em>web</em> de la <em>World Wide Web</em>.
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img42.svg')
               .col-lg-8.col-xl-7.col-xxl-8
@@ -400,18 +400,18 @@
             p Transferencia de mensajes de correo electrónico y archivos adjuntos.
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
-              .col-auto.mb-4 
+              .col-auto.mb-4
                 figure
                   img.img-t.m-auto(src='@/assets/curso/tema1/img43.svg')
               .col-lg-8.col-xl-7.col-xxl-8
                 h4 <em>Domain Name System</em>
             p Resolución del nombre de un <em>host</em> a la dirección IP.
 
-    p.mb-5 Ahora, observe el siguiente video sobre el modelo TCP/IP, haciendo uso de un ejemplo: 
+    p.mb-5 Ahora, observe el siguiente video sobre el modelo TCP/IP, haciendo uso de un ejemplo:
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/HhgkV7YDhXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/HhgkV7YDhXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador
 
@@ -428,18 +428,18 @@
     .bg_07.p-4.mb-5
       .row.justify-content-center
         .col-lg-10
-          p Para obtener la dirección IPv6 de un sitio siga el procedimiento que se detalla en el video: 
+          p Para obtener la dirección IPv6 de un sitio siga el procedimiento que se detalla en el video:
 
           figure
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/eU9I0xE_5Yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-             
+
     p Por otro lado, cada máquina privada debe tener una dirección IP propia que le permita la identificación única dentro de una red local, identificando cada ordenador de modo que puedan llegar a este los paquetes, por lo que no pueden existir direcciones IP con la misma numeración.
 
     .bg_07.p-4.mb-5
       .row.justify-content-center
         .col-lg-10
-          p Para obtener la dirección IP privada de un sitio siga el procedimiento que se detalla en el video: 
+          p Para obtener la dirección IP privada de un sitio siga el procedimiento que se detalla en el video:
 
           figure
             .video
@@ -461,47 +461,47 @@
     .bg_07.p-4.mb-5
       .row.justify-content-center
         .col-lg-10
-          p Para obtener la dirección IP privada de un sitio siga el procedimiento que se detalla en el video: 
+          p Para obtener la dirección IP privada de un sitio siga el procedimiento que se detalla en el video:
 
           figure
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/beKW7owSgdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    
-    p.mb-5 La siguiente tabla diferencia los dos protocolos en algunas de sus características principales: 
+
+    p.mb-5 La siguiente tabla diferencia los dos protocolos en algunas de sus características principales:
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
       h5 Tabla 2.
       span <em>Diferencias entre el protocolo IPv4 e IPv6</em>
 
     .row.justify-content-center(data-aos="fade-down-right")
-      .col-lg-8.col-xl-10.col-xxl-8   
-        .tabla-a.color-acento-contenido.mb-5 
+      .col-lg-8.col-xl-10.col-xxl-8
+        .tabla-a.color-acento-contenido.mb-5
           table.m_tabla2
             thead
               tr.bg_color1
                 td.h4.text-center(colspan="3") Característica
                 td.h4.text-center(colspan="2") IPv4
-                td.h4.text-center(colspan="3") IPv6             
+                td.h4.text-center(colspan="3") IPv6
             tbody
               tr
-                td.text-bold(colspan="3") Longitud de la dirección en <em>bits</em>                
+                td.text-bold(colspan="3") Longitud de la dirección en <em>bits</em>
                 td.text-center(colspan="2") 32 <em>bits</em>
                 td.text-center(colspan="3") 128 <em>bits</em>
               tr
-                td.text-bold(colspan="3") Representación de las direcciones               
+                td.text-bold(colspan="3") Representación de las direcciones
                 td.text-center(colspan="2") Decimal
                 td.text-center(colspan="3") Hexadecimal
               tr
-                td.text-bold(colspan="3") Separador de octetos                
+                td.text-bold(colspan="3") Separador de octetos
                 td.text-center(colspan="2") Punto (.)
                 td.text-center(colspan="3") Dos puntos (:)
               tr
-                td.text-bold(colspan="3") Límite de IP               
+                td.text-bold(colspan="3") Límite de IP
                 td.text-center(colspan="2") 4.000 millones
                 td.text-center(colspan="3") 340 sextillones
               tr
                 td.text-bold(colspan="3") Autoconfiguración
-                td.text-center(colspan="2") No. Solo configuración manual y a través de DHCP 
+                td.text-center(colspan="2") No. Solo configuración manual y a través de DHCP
                 td.text-center(colspan="3") Sí. Configuración automática y renumeración de direcciones
               tr
                 td.text-bold(colspan="3") Cifrado
@@ -511,25 +511,25 @@
                 td.text-bold(colspan="3") Ejemplo IP
                 td.text-center(colspan="2") 192.168.20.28
                 td.text-center(colspan="3") 2800:484:2085:50b:5f9:60d:25aa:1369
-              
+
     .bg_11.p-4.pt-5.mb-5
-      p.mb-5 La adopción de este protocolo tiene múltiples ventajas dentro de las que destacan: 
+      p.mb-5 La adopción de este protocolo tiene múltiples ventajas dentro de las que destacan:
       .row.justify-content-center.align-items-center
         .col-lg-3(data-aos="fade-right")
           figure
             img.img-t.m-auto(src='@/assets/curso/tema1/img47.svg')
         .col-lg-8(data-aos="fade-left")
           ul.lista-ul--color
-            li 
+            li
               i.fas.fa-circle
               p.m-0 El número de direcciones IP será casi ilimitado.
-            li 
+            li
               i.fas.fa-circle
               p.m-0 Mayor seguridad con el protocolo e Ipsec.
-            li 
+            li
               i.fas.fa-circle
               p.m-0 Mejores rendimientos en la configuración automática con respecto al DHCP utilizado en la anterior versión, está en la capacidad de dar soporte nativo para los dispositivos móviles.
-            li 
+            li
               i.fas.fa-circle
               p.m-0 Mayor eficiencia al momento de simplificar el encabezado de los paquetes o al tener que hacer un enrutamiento más jerárquico.
 
@@ -574,24 +574,24 @@
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
         .bg_13.p-4.px-5
           .row
-            .col-auto.mb-4 
+            .col-auto.mb-4
               figure
                 img.img-t.m-auto.img_animation1(src='@/assets/curso/tema1/img52.svg', alt='')
           .row
-            .col-lg-10.mb-4.text-white            
-              p.m-0 Dentro de sus principales 
-                span.color_1.text-bold ventajas 
-                | es posible mencionar: 
+            .col-lg-10.mb-4.text-white
+              p.m-0 Dentro de sus principales
+                span.color_1.text-bold ventajas
+                | es posible mencionar:
           .row
             .col-lg-12
               ul.lista-ul--color.color_fa-check.text-white
-                li 
+                li
                   i.fas.fa-check-circle
                   | Mejora la seguridad, ya que estas no se anuncian por toda la red.
-                li 
+                li
                   i.fas.fa-check-circle
                   |	La ruta que utiliza un camino estático para compartir la información es conocida.
-                li 
+                li
                   i.fas.fa-check-circle
                   |	El consumo del ancho de banda es mucho menor que los protocolos utilizados para el 3
                   <em>routing</em> dinámico, ya que no es necesario utilizar ciclos de CPU para el cálculo y la comunicación de rutas.
@@ -599,27 +599,27 @@
       .col-lg-6(data-aos="fade-left")
         .bg_13.p-4.px-5
           .row
-            .col-auto.mb-4 
+            .col-auto.mb-4
               figure
                 img.img-t.m-auto.img_animation1(src='@/assets/curso/tema1/img53.svg', alt='')
           .row
-            .col-lg-10.mb-4.text-white            
-              p.m-0 En cuanto a sus 
-                span.color-text1.text-bold desventajas 
+            .col-lg-10.mb-4.text-white
+              p.m-0 En cuanto a sus
+                span.color-text1.text-bold desventajas
                 | se señala que:
           .row
             .col-lg-12
               ul.lista-ul--color.color_fa-times.text-white
-                li 
+                li
                   i.fas.fa-times-circle
                   | Demanda una configuración de inicio y un mantenimiento que ocupa mucho tiempo.
-                li 
+                li
                   i.fas.fa-times-circle
                   |	Cuando se configuran redes de gran tamaño, las configuraciones son susceptibles de errores.
-                li 
+                li
                   i.fas.fa-times-circle
                   |	Se necesita un administrador permanente que realice los cambios, cuando la información de la ruta cambie.
-                li 
+                li
                   i.fas.fa-times-circle
                   |	Es necesario conocer toda la red para que la implementación se haga de manera correcta.
 
@@ -636,57 +636,57 @@
         .bg_14.p-4
           .row.justify-content-evenly
             .col-lg-5
-              h4.mb-4 Objetivos 
+              h4.mb-4 Objetivos
               .bg_15.p-4.mb-3
                 .row.align-items-center
-                  .col-auto 
+                  .col-auto
                     figure
                       img.img-t.m-auto(src='@/assets/curso/tema1/img55.svg', alt='')
                   .col-lg-9
                     p.m-0.text-bold Descubrimiento de redes remotas.
               .bg_15.p-4.mb-3
                 .row.align-items-center
-                  .col-auto 
+                  .col-auto
                     figure
                       img.img-t.m-auto(src='@/assets/curso/tema1/img56.svg', alt='')
                   .col-lg-9
                     p.m-0.text-bold Actualización permanentemente de la información del <em>routing</em>.
               .bg_15.p-4.mb-3
                 .row.align-items-center
-                  .col-auto 
+                  .col-auto
                     figure
                       img.img-t.m-auto(src='@/assets/curso/tema1/img57.svg', alt='')
                   .col-lg-9
-                    p.m-0.text-bold Selección eficiente del mejor camino hacia redes destino. 
+                    p.m-0.text-bold Selección eficiente del mejor camino hacia redes destino.
               .bg_15.p-4.mb-3
                 .row.align-items-center
-                  .col-auto 
+                  .col-auto
                     figure
                       img.img-t.m-auto(src='@/assets/curso/tema1/img58.svg', alt='')
                   .col-lg-9
                     p.m-0.text-bold En caso de fallas en la ruta establecida, descubrimiento de nuevos caminos.
             .col-auto
-              .verticalLine.d-none.d-lg-block 
+              .verticalLine.d-none.d-lg-block
               .b_bottom1.d-lg-none.d-md-block
             .col-lg-5
               h4.mb-4 Componentes
               .bg_15.p-4.mb-4
                 .row.align-items-center
-                  .col-auto 
+                  .col-auto
                     figure
                       img.img-t.m-auto(src='@/assets/curso/tema1/img59.svg', alt='')
                   .col-lg-9
                     p.m-0 <b>Estructura de datos.</b> Utilizan para su almacenamiento y operación base de datos o tablas guardadas en la memoria RAM.
               .bg_15.p-4.mb-4
                 .row.align-items-center
-                  .col-auto 
+                  .col-auto
                     figure
                       img.img-t.m-auto(src='@/assets/curso/tema1/img60.svg', alt='')
                   .col-lg-9
                     p.m-0 <b>Mensajes del protocolo de <em>routing</em></b>. Para descubrir <em>router</em> vecinos utilizan una serie de mensajes para intercambiar información del <em>routing</em> y realizar tareas como descubrimiento de red y almacenamiento de información.
               .bg_15.p-4.mb-4
                 .row.align-items-center
-                  .col-auto 
+                  .col-auto
                     figure
                       img.img-t.m-auto(src='@/assets/curso/tema1/img61.svg', alt='')
                   .col-lg-9
@@ -702,7 +702,7 @@
         .bg_03.p-4.pt-5
           .row.justify-content-center
             .col-lg-10.pt-4
-              p Las <b>rutas estáticas son eficientes para redes pequeñas</b> en las que solo se tiene una ruta a la red externa, ofrecen también un mayor nivel de seguridad en redes un poco más grandes para el tráfico específico o en caso de enlazarse con diferentes redes que necesiten más control.  
+              p Las <b>rutas estáticas son eficientes para redes pequeñas</b> en las que solo se tiene una ruta a la red externa, ofrecen también un mayor nivel de seguridad en redes un poco más grandes para el tráfico específico o en caso de enlazarse con diferentes redes que necesiten más control.
               p La implementación de una técnica u otra dependerá de cada organización y puede utilizarse de manera independiente o de forma combinada.
 
     Separador
@@ -769,12 +769,12 @@
               h4.text-center Red
               p.text-center Conexión a través de los diferentes tipos de red.
 
-    p Al unir estas tecnologías en una arquitectura tecnológica informática tipo nube se pueden desplegar múltiples aplicaciones, brindando a sus usuarios todo el potencial y capacidad de aprovechamiento.  
+    p Al unir estas tecnologías en una arquitectura tecnológica informática tipo nube se pueden desplegar múltiples aplicaciones, brindando a sus usuarios todo el potencial y capacidad de aprovechamiento.
     p.mb-4 El siguiente video presenta las principales ventajas, posibilidades de la arquitectura y servicios en la nube, observe con atención:
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ftIakHaCcxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ftIakHaCcxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.align-items-center.mb-5
       .col-lg-2.mb-4.mb-lg-0(data-aos="fade-right")
@@ -787,7 +787,7 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/0AO0cUe3CCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/0AO0cUe3CCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     Separador
 
@@ -801,14 +801,14 @@
       .col-lg-8(data-aos="fade-left")
         p Hoy en día es prioritaria la seguridad de los activos informáticos para todas las empresas, toda vez que cuando los sistemas son atacados pueden sufrir consecuencias lamentables: pérdida de información, suspensión del servicio, mala imagen ante los clientes, hasta el pago de sanciones económicas por no proteger correctamente la información.
         p La ciberseguridad, entonces, se convierte en una necesidad prioritaria para aquellas empresas que quieran obtener en el sector donde operan las garantías para blindar sus activos informáticos y por supuesto, la información.
-        p En ciberseguridad se habla de tres conceptos importantes: amenazas, vulnerabilidades y riesgos, términos que para la mayoría de las personas no son del todo claros y suelen presentar confusiones.  
+        p En ciberseguridad se habla de tres conceptos importantes: amenazas, vulnerabilidades y riesgos, términos que para la mayoría de las personas no son del todo claros y suelen presentar confusiones.
 
-    p.mb-5 Observe el pronunciamiento que al respecto hace la ley:  
+    p.mb-5 Observe el pronunciamiento que al respecto hace la ley:
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
       h5 Figura 6.
       span <em>Riesgo, amenaza y vulnerabilidad</em>
-    
+
     .bg_18.px-4.mb-5.d-none.d-lg-block
       .row.justify-content-center(data-aos="fade-right")
         .col-lg-4
@@ -818,33 +818,33 @@
         .col-lg-3
           .tarjeta-avatar
             img.img46.m-auto(src='@/assets/curso/tema1/img74.svg' alt='AvatarTop')
-            .bg_20.p-4            
-              h4.m-0.text-center.text-white Riesgo         
+            .bg_20.p-4
+              h4.m-0.text-center.text-white Riesgo
         .col-lg-3
           .tarjeta-avatar
             img.img46.m-auto(src='@/assets/curso/tema1/img75.svg' alt='AvatarTop')
-            .bg_20.p-4              
+            .bg_20.p-4
               h4.m-0.text-center.text-white Amenaza
         .col-lg-3
           .tarjeta-avatar
             img.img46.m-auto(src='@/assets/curso/tema1/img76.svg' alt='AvatarTop')
-            .bg_20.p-4              
+            .bg_20.p-4
               h4.m-0.text-center.text-white Vulnerabilidad
       .row.justify-content-around.mb-4
         .col-lg-4
-          .bg_21.p-4.mb-4            
+          .bg_21.p-4.mb-4
             p.m-0.text-center Daño o pérdida potencial por  eventos físicos peligrosos (natural, socio-natural, tecnológico, biosanitario, humano).
-          .bg_21.p-4.mb-4            
+          .bg_21.p-4.mb-4
             p.m-0.text-center Determinado por la vulnerabilidad de los elementos expuestos.
-          .bg_21.p-4            
+          .bg_21.p-4
             p.m-0.text-center El riesgo de desastres se deriva de la combinación de la amenaza y la vulnerabilidad.
         .col-lg-4
-          .bg_21.p-4.mb-4            
+          .bg_21.p-4.mb-4
             p.m-0.text-center Peligro latente de que un evento físico de origen natural o causado accidentalmente por la acción humana se presente.
-          .bg_21.p-4            
+          .bg_21.p-4
             p.m-0.text-center Puede causar pérdida de vidas, impacto en la salud, daños en bienes, infraestructura, medios de sustento, prestación de servicios y recursos ambientales.
         .col-lg-4
-          .bg_21.p-4            
+          .bg_21.p-4
             p.m-0.text-center Predisposición a sufrir pérdidas o daños de los seres humanos y sus medios de subsistencia, y sistemas físicos, sociales, económicos y de apoyo tras ser afectados por eventos físicos peligrosos.
 
     .bg_18.px-4.mb-5.d-lg-none.d-md-block
@@ -856,46 +856,46 @@
         .col-lg-3
           .tarjeta-avatar
             img.img46.m-auto(src='@/assets/curso/tema1/img74.svg' alt='AvatarTop')
-            .bg_20.p-4.mb-4            
-              h4.m-0.text-center.text-white Riesgo 
+            .bg_20.p-4.mb-4
+              h4.m-0.text-center.text-white Riesgo
         .row.justify-content-around.mb-4
           .col-lg-4
-            .bg_21.p-4.mb-4            
+            .bg_21.p-4.mb-4
               p.m-0.text-center Daño o pérdida potencial por  eventos físicos peligrosos (natural, socio-natural, tecnológico, biosanitario, humano).
-            .bg_21.p-4.mb-4            
+            .bg_21.p-4.mb-4
               p.m-0.text-center Determinado por la vulnerabilidad de los elementos expuestos.
-            .bg_21.p-4            
-              p.m-0.text-center El riesgo de desastres se deriva de la combinación de la amenaza y la vulnerabilidad.        
+            .bg_21.p-4
+              p.m-0.text-center El riesgo de desastres se deriva de la combinación de la amenaza y la vulnerabilidad.
       .row.justify-content-around.mb-4
         .col-lg-3
           .tarjeta-avatar
             img.img46.m-auto(src='@/assets/curso/tema1/img75.svg' alt='AvatarTop')
-            .bg_20.p-4.mb-4             
+            .bg_20.p-4.mb-4
               h4.m-0.text-center.text-white Amenaza
         .row.justify-content-around.mb-4
           .col-lg-4
-            .bg_21.p-4.mb-4            
+            .bg_21.p-4.mb-4
               p.m-0.text-center Peligro latente de que un evento físico de origen natural o causado accidentalmente por la acción humana se presente.
-            .bg_21.p-4            
+            .bg_21.p-4
               p.m-0.text-center Puede causar pérdida de vidas, impacto en la salud, daños en bienes, infraestructura, medios de sustento, prestación de servicios y recursos ambientales.
       .row.justify-content-around.mb-4
         .col-lg-3
           .tarjeta-avatar
             img.img46.m-auto(src='@/assets/curso/tema1/img76.svg' alt='AvatarTop')
-            .bg_20.p-4.mb-4              
-              h4.m-0.text-center.text-white Vulnerabilidad      
-        .row.justify-content-around.mb-4 
+            .bg_20.p-4.mb-4
+              h4.m-0.text-center.text-white Vulnerabilidad
+        .row.justify-content-around.mb-4
           .col-lg-4
-            .bg_21.p-4            
+            .bg_21.p-4
               p.m-0.text-center Predisposición a sufrir pérdidas o daños de los seres humanos y sus medios de subsistencia, y sistemas físicos, sociales, económicos y de apoyo tras ser afectados por eventos físicos peligrosos.
 
     .row.align-items-center.mb-5.pt-5
       .col-lg-8.order-last.order-lg-first(data-aos="fade-right")
         p En sistemas informáticos, la <b>vulnerabilidad</b> se entiende como la incapacidad de un sistema para protegerse permitiendo ser atacado y recibiendo daño. Estas debilidades en los sistemas son ocasionadas normalmente por no contar con una eficiente protección ante amenazas externas, el no realizar actualizaciones periódicas, posibles fallos en la programación, entre otras causas.
-        p A estas vulnerabilidades se les denomina agujeros de seguridad y aunque tienen la ventaja de que una vez descubierta la falla, se pueden solucionar, también dejan los datos y sistemas de una empresa en riesgo, comprometiendo la integridad, privacidad y disponibilidad de la información.  Los huecos de seguridad exponen los sistemas a diversas amenazas que aumentan el riesgo de que se produzcan ataques en cualquier momento, enfrentando a las empresas a complejas situaciones.        
+        p A estas vulnerabilidades se les denomina agujeros de seguridad y aunque tienen la ventaja de que una vez descubierta la falla, se pueden solucionar, también dejan los datos y sistemas de una empresa en riesgo, comprometiendo la integridad, privacidad y disponibilidad de la información.  Los huecos de seguridad exponen los sistemas a diversas amenazas que aumentan el riesgo de que se produzcan ataques en cualquier momento, enfrentando a las empresas a complejas situaciones.
       .col-lg-4.mb-4.mb-lg-0.order-first.order-lg-last(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img77.png')    
+          img.img-t.m-auto(src='@/assets/curso/tema1/img77.png')
 
     .row.align-items-center.mb-5
       .col-lg-3.mb-4.mb-lg-0(data-aos="fade-left")
@@ -907,7 +907,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/x56FT_OVARQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/x56FT_OVARQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p Las amenazas pueden provocar una vulnerabilidad, ya sea de manera intencional o accidentalmente y robar, dañar o eliminar un activo.
     p.mb-5 Las siguientes son consideradas las amenazas más comunes a las que se enfrenta la infraestructura IT:

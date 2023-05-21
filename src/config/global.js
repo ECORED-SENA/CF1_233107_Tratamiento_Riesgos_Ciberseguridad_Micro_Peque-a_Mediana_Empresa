@@ -173,8 +173,13 @@ export default {
         nombreRuta: 'referencias',
       },
       {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/pdf.pdf',
+      },
+      {
         icono: 'fas fa-download',
-        titulo: 'Descargar material',
+        titulo: 'Descargar HTML',
         download: 'downloads/material.zip',
       },
       {
@@ -213,7 +218,8 @@ export default {
     },
     {
       tema: 'IPv4 e IPv6',
-      referencia: 'Freda, A. 2021. <em>¿Qué diferencia hay entre IPv4 e IPv6? AVG</em>.',
+      referencia:
+        'Freda, A. 2021. <em>¿Qué diferencia hay entre IPv4 e IPv6? AVG</em>.',
       tipo: 'Página web',
       link: 'https://www.avg.com/es/signal/ipv4-vs-ipv6',
     },
@@ -328,100 +334,114 @@ export default {
       link: 'https://docs.oracle.com/cd/E19957-01/820-2981/ipov-8/index.html',
     },
   ],
-  creditos: {
-    liderEquipo: [
-      {
-        nombre: 'Maria Camila Garcia Santamaria',
-        cargo: 'Líder del equipo',
-        centro: 'Dirección General',
-      },
-    ],
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Responsable del equipo de diseño instruccional',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Ronald Alexander Vacca Ascanio',
-        cargo: 'Experto temático',
-        centro:
-          'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
-      },
-      {
-        nombre: 'Maribel Avellaneda Nieves',
-        cargo: 'Diseñadora instruccional',
-        centro:
-          'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
-      },
-      {
-        nombre: 'Silvia Milena Sequeda Cárdenas',
-        cargo: 'Asesora pedagógica y metodológica',
-        centro: 'Centro de diseño y Metrología - Regional Distrito Capital',
-      },
-      {
-        nombre: 'Julia Isabel Roberto',
-        cargo: 'Correctora de estilo',
-        centro: 'Centro de diseño y Metrología - Regional Distrito Capital',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Yuly Rey',
-        cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Juan Daniel Polanco Muñoz',
-        cargo: 'Validación de diseño',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Marcia Elizabeth Solano Alvarez',
-        cargo: 'Desarrollo front-end',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Melina Tatiana Quintero Rodriguez',
-        cargo: 'Validación de contenido',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Zuleidy María Ruíz Torres',
-        cargo: 'Revisión de guion audiovisual',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Wilson Andrés Caceres Arenales',
-        cargo: 'Validación ilustración',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Gilberto Junior Rodriguez Rodriguez',
-        cargo: 'Validación audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Responsable del equipo de gestión de repositorio',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-    ],
+  creditos: [
+    {
+      titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Claudia Patricia Aristizabal',
+          cargo: 'Responsable del ecosistema',
+          centro: 'Dirección General',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes ',
+          cargo: 'Responsable de línea de producción',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+      ],
+    },
+    {
+      titulo: 'CONTENIDO INSTRUCCIONAL',
+      autores: [
+        {
+          nombre: 'Ronald Alexander Vacca Ascanio',
+          cargo: 'Experto temático',
+          centro:
+            'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
+        },
+        {
+          nombre: 'Maribel Avellaneda Nieves',
+          cargo: 'Diseñadora instruccional',
+          centro:
+            'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
+        },
+        {
+          nombre: 'Silvia Milena Sequeda Cárdenas',
+          cargo: 'Asesora pedagógica y metodológica',
+          centro: 'Centro de diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Correctora de estilo',
+          centro: 'Centro de diseño y Metrología - Regional Distrito Capital',
+        },
+      ],
+    },
+    {
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Francisco José Lizcano Reyes',
+          cargo: 'Desarrollador Fullstack',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Juan Daniel Polanco Muñoz',
+          cargo: 'Diseñador web',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Storyboard e ilustración',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Animador y Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Emilsen Alfonso Bautista',
+          cargo: 'Actividad didáctica',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+      ],
+    },
+    {
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      autores: [
+        {
+          nombre: 'Zuleidy María Ruíz Torres',
+          cargo: 'Validación y vinculación en plataforma LMS',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Luis Gabriel Urueta Alvarez',
+          cargo: 'Validación y vinculación en plataforma LMS',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis',
+          cargo: 'Validación de contenidos accesibles',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+      ],
+    },
+  ],
+  creditosAdicionales: {
+    imagenes:
+      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
+    creativeCommons:
+      'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },
   // creditosInicio: [
   //   {

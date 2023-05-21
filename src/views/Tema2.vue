@@ -30,7 +30,7 @@
       h2 2.1 ISO 27001
 
     p Conocida como la “Norma Tecnología de la información — Técnicas de seguridad — Sistemas de gestión de la seguridad de la información — Requisitos” ISO/IEC 27001 (en lo sucesivo, ISO/IEC 27001) especifica los requisitos para establecer, implementar, mantener y mejorar continuamente un sistema de gestión de seguridad de la información (SGSI). El SGSI presenta un enfoque sistemático para mantener segura la información confidencial y gestiona personas, procesos y sistemas de TI mediante la aplicación de procesos de gestión de riesgos. El SGSI de una organización certificado según la Norma ISO/IEC 27001 demuestra el compromiso de una organización con la seguridad de la información y brinda confianza a sus clientes, socios y partes interesadas.
-    p.mb-5 ISO/IEC 27001 está diseñada para usarse junto con controles de apoyo, como los relacionados en el documento ISO/IEC 27002 (en lo sucesivo, ISO/IEC 27002) que detalla 114 controles de seguridad organizados en 14 secciones y 35 objetivos de control. 
+    p.mb-5 ISO/IEC 27001 está diseñada para usarse junto con controles de apoyo, como los relacionados en el documento ISO/IEC 27002 (en lo sucesivo, ISO/IEC 27002) que detalla 114 controles de seguridad organizados en 14 secciones y 35 objetivos de control.
 
     .row.mb-4(data-aos="fade-right")
       .col-lg-5
@@ -48,19 +48,19 @@
     .row(data-aos="fade-right")
       .col-lg-5
         .bg_25.p-4
-          h3.ms-4.text-white Beneficios de la certificación 
+          h3.ms-4.text-white Beneficios de la certificación
 
-    p.mb-5 La certificación ISO/IEC 27001 traerá beneficios a la organización tanto en seguridad interna como en competitividad externa.  Internamente al adoptar ISO/IEC 27001 una organización puede beneficiarse entre otros aspectos, de los relacionados en la siguiente figura.     
+    p.mb-5 La certificación ISO/IEC 27001 traerá beneficios a la organización tanto en seguridad interna como en competitividad externa.  Internamente al adoptar ISO/IEC 27001 una organización puede beneficiarse entre otros aspectos, de los relacionados en la siguiente figura.
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
       h5 Figura 8.
       span <em>Certificación ISO/IEC 27001 - Beneficios internos</em>
-    
+
     .bg_08.p-5.mb-5
       .row.justify-content-center
         .col-lg-10
           figure(data-aos="fade-down-right")
-            img.img-t.m-auto(src='@/assets/curso/tema2/img06.svg', alt='') 
+            img.img-t.m-auto(src='@/assets/curso/tema2/img06b.svg', alt='')
 
     p Externamente, al dar a conocer el hecho de que ISO/IEC 27001 está certificada, la organización contaría dentro de sus beneficios con los elementos representados en la figura que aparece a continuación:
 
@@ -89,25 +89,25 @@
           p El proceso de certificación <b>ISO/IEC 27001</b> implica la acreditación por parte de organismos de certificación. Dicha acreditación se otorga a las organizaciones que han demostrado cumplir plenamente con los requisitos de las normas internacionales <b>ISO/IEC 17021</b> “Evaluación de la conformidad: requisitos para los organismos que brindan auditoría y certificación de sistemas de gestión” e <b>ISO/IEC 27006</b> “Requisitos para los organismos que brindan auditoría y certificación de sistemas de gestión de seguridad de la información”.
         .col-lg-2
           .row.justify-content-center
-            .col-auto 
+            .col-auto
               figure(data-aos="fade-down-right")
                 img.img-t.m-auto(src='@/assets/curso/tema2/img12.svg', alt='')
 
     .row.mb-0.mb-lg-4(data-aos="fade-right")
       .col-lg-8
         .bg_29.p-4
-          h3.ms-4.text-white Acreditación servicio por ISO/CEI 27001     
+          h3.ms-4.text-white Acreditación servicio por ISO/CEI 27001
 
-    p.mb-3.mb-lg-5 La certificación fue lanzada oficialmente por el Servicio de Acreditación de Hong Kong (HKAS) el 15 de noviembre de 2011. Los organismos de certificación pueden comunicarse con HKAS y solicitar la acreditación de forma voluntaria.     
+    p.mb-3.mb-lg-5 La certificación fue lanzada oficialmente por el Servicio de Acreditación de Hong Kong (HKAS) el 15 de noviembre de 2011. Los organismos de certificación pueden comunicarse con HKAS y solicitar la acreditación de forma voluntaria.
 
     .row.mb-0.mb-lg-3.pt-4(data-aos="fade-right")
       .col-lg-5
         .bg_24.p-4
-          h3.ms-4.text-white Costos de certificación   
+          h3.ms-4.text-white Costos de certificación
 
     .row.align-items-center.mb-0.mb-lg-5
       .col-lg-8(data-aos="fade-right")
-        p.mb-0.mb-lg-5 La certificación inicial incluye los costos tanto para implementar el SGSI como para certificar ISO/IEC 27001. El costo de implementación depende en gran medida de las brechas entre los controles de seguridad existentes y los controles requeridos dentro de la organización. En términos de costos de implementación hay costos y recursos para implementar controles de seguridad, redacción de documentación, capacitación del personal, etc. La certificación en sí, incluye el costo de los auditores externos (que cobran una tarifa determinada por día), tarifas de solicitud, tasas de certificados y tasas de mantenimiento. 
+        p.mb-0.mb-lg-5 La certificación inicial incluye los costos tanto para implementar el SGSI como para certificar ISO/IEC 27001. El costo de implementación depende en gran medida de las brechas entre los controles de seguridad existentes y los controles requeridos dentro de la organización. En términos de costos de implementación hay costos y recursos para implementar controles de seguridad, redacción de documentación, capacitación del personal, etc. La certificación en sí, incluye el costo de los auditores externos (que cobran una tarifa determinada por día), tarifas de solicitud, tasas de certificados y tasas de mantenimiento.
         .row.mb-0.mb-lg-4.pt-4
           .col-lg-8
             .bg_31.p-4
@@ -115,9 +115,9 @@
         p Según ISO Survey (2020), había unos 44.500 certificados ISO/IEC 27001 válidos en 137 países y economías de todo el mundo al 31 de diciembre de 2020. Los tres principales países y economías por el número total de certificados válidos eran China (unos 12.00), Japón (unos 5.600) y el Reino Unido de Gran Bretaña e Irlanda del Norte (unos 3.300). Según la información de la misma encuesta, el número de certificados válidos en Hong Kong era de unos 186, número que incluía algunos departamentos gubernamentales certificados según ISO/IEC 27001 para áreas funcionales específicas.
       .col-lg-4.mb-4
         .row.justify-content-center
-          .col-auto 
+          .col-auto
             figure(data-aos="fade-left")
-              img.img-t.m-auto(src='@/assets/curso/tema2/img15.png', alt='') 
+              img.img-t.m-auto(src='@/assets/curso/tema2/img15.png', alt='')
 
     .row.mb-3.pt-4(data-aos="fade-right")
       .col-lg-10
@@ -136,15 +136,15 @@
             .col-lg-5(data-aos="fade-left")
               figure
                 img.img-t.mx-auto(src='@/assets/curso/tema2/img21.svg', alt='Texto que describa la imagen')
-                
+
           .row.justify-content-end.align-items-center
             .col-lg-5.mb-4.mb-lg-0.order-last.order-lg-first(data-aos="fade-right")
               figure
-                img.img-t.mx-auto(src='@/assets/curso/tema2/img22.svg', alt='Texto que describa la imagen')                
+                img.img-t.mx-auto(src='@/assets/curso/tema2/img22.svg', alt='Texto que describa la imagen')
             .col-lg-6.text-start.order-first.order-lg-last.mb-4.mb-lg-0(data-aos="fade-left")
-              h4 Definir el alcance del SGSI. 
+              h4 Definir el alcance del SGSI.
               p <b>Tarea:</b> comparar el sistema de gestión de seguridad de la información existente con los requisitos de ISO/ 2 IEC 27001 y seleccionar qué unidades de negocio, departamentos o sistemas cubrirá el SGSI.
-              
+
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
               h4 Realizar una evaluación de riesgos.
@@ -156,11 +156,11 @@
           .row.justify-content-end.align-items-center
             .col-lg-5.mb-4.mb-lg-0.order-last.order-lg-first(data-aos="fade-right")
               figure
-                img.img-t.mx-auto(src='@/assets/curso/tema2/img24.svg', alt='Texto que describa la imagen')                
+                img.img-t.mx-auto(src='@/assets/curso/tema2/img24.svg', alt='Texto que describa la imagen')
             .col-lg-6.text-start.order-first.order-lg-last.mb-4.mb-lg-0(data-aos="fade-left")
               h4 Gestionar el riesgo identificado.
               p <b>Tarea:</b> crear un plan de tratamiento de los riesgos para identificar acciones de gestión, recursos, responsabilidades y prioridades apropiadas para gestionar los riesgos de seguridad de la información.
-              
+
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
               h4 Seleccionar los controles a implementar.
@@ -172,7 +172,7 @@
           .row.justify-content-end.align-items-center
             .col-lg-5.mb-4.mb-lg-0.order-last.order-lg-first(data-aos="fade-right")
               figure
-                img.img-t.mx-auto(src='@/assets/curso/tema2/img26.svg', alt='Texto que describa la imagen')                
+                img.img-t.mx-auto(src='@/assets/curso/tema2/img26.svg', alt='Texto que describa la imagen')
             .col-lg-6.text-start.order-first.order-lg-last.mb-4.mb-lg-0(data-aos="fade-left")
               h4 Implementar controles
               p <b>Tarea:</b> desarrollar programas para implementar los controles identificados.
@@ -180,7 +180,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
               h4 Prepárese para la certificación.
-              p <b>Tarea:</b> operar el SGSI y realizar un ciclo completo de auditorías internas, revisiones de gestión y	 actividades.              
+              p <b>Tarea:</b> operar el SGSI y realizar un ciclo completo de auditorías internas, revisiones de gestión y	 actividades.
             .col-lg-5(data-aos="fade-left")
               figure
                 img.img-t.mx-auto(src='@/assets/curso/tema2/img27.svg', alt='Texto que describa la imagen')
@@ -188,9 +188,9 @@
           .row.justify-content-end.align-items-center
             .col-lg-5.mb-4.mb-lg-0.order-last.order-lg-first(data-aos="fade-right")
               figure
-                img.img-t.mx-auto(src='@/assets/curso/tema2/img28.svg', alt='Texto que describa la imagen')                
+                img.img-t.mx-auto(src='@/assets/curso/tema2/img28.svg', alt='Texto que describa la imagen')
             .col-lg-6.text-start.order-first.order-lg-last.mb-4.mb-lg-0(data-aos="fade-left")
-              h4 Solicitar la certificación. 
+              h4 Solicitar la certificación.
               p <b>Tarea:</b> continuar con la solicitud de la certificación que incluye etapas de revisión de los documentos y la auditoría de cumplimiento en el sitio.
 
     .row.mb-0.mb-lg-3.pt-4(data-aos="fade-right")
@@ -205,13 +205,13 @@
       span <em>Relaciones de la familia de Normas ISO/IEC 27001</em>
 
     .row.justify-content-center(data-aos="fade-down-right")
-      .col-lg-12    
-        .tabla-a.color-acento-contenido.mb-5 
+      .col-lg-12
+        .tabla-a.color-acento-contenido.mb-5
           table.m_tabla3
             thead
               tr.bg_color1
                 td.h4(colspan="4") Estándar de vocabulario
-                td.h4.text-center(colspan="30") ISO/IEC 27000<br> Sistemas de gestión de seguridad de la información: visión general y vocabulario               
+                td.h4.text-center(colspan="30") ISO/IEC 27000<br> Sistemas de gestión de seguridad de la información: visión general y vocabulario
             tbody
               tr
                 td.text-bold(colspan="4") Requerimientos estándar
@@ -241,18 +241,18 @@
               tr
                 td.text-bold(colspan="4") Estándares de directrices específicos de controles
                 td.text-center(colspan="11") <b>ISO/IEC 27010</b>
-                td.text-center(colspan="11") <b>ISO/IEC 27011</b> 
-                td.text-center(colspan="8") <b>ISO/IEC 27017</b> 
+                td.text-center(colspan="11") <b>ISO/IEC 27011</b>
+                td.text-center(colspan="8") <b>ISO/IEC 27017</b>
 
-    p.mb-5 Además de las más mencionadas ISO/IEC 27001, ISO/IEC 27002 e ISO/IEC 27018, también es importante hacer referencia a otras normas de la familia ISO/IEC 27000 como las que se destacan a continuación: 
+    p.mb-5 Además de las más mencionadas ISO/IEC 27001, ISO/IEC 27002 e ISO/IEC 27018, también es importante hacer referencia a otras normas de la familia ISO/IEC 27000 como las que se destacan a continuación:
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-10
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="ISO/IEC 27000")
             .col-lg-11
-              span.font_text1.text-bold <br>Sistemas de gestión de la seguridad de la información: 
-              | descripción general y vocabulario.</br>
+              span.font_text1.text-bold <br>Sistemas de gestión de la seguridad de la información:
+              | descripción general y vocabulario.
               p.mt-4 Proporciona una descripción general del SGSI y los términos y definiciones comúnmente utilizados en la familia de estándares del SGSI para garantizar coherencia; toda la familia de Normas 27000 se basa en los términos y definiciones proporcionados en ISO/IEC 27000.
           .row(titulo="ISO/IEC 27003")
             .col-lg-11
@@ -264,11 +264,11 @@
               p Proporciona pautas para ayudar a las organizaciones a evaluar el desempeño de la seguridad de la información, la efectividad de un SGSI y cumplir con los requisitos de monitoreo, medición, análisis y evaluación como especifica la Norma ISO/IEC 27001.
           .row(titulo="ISO/IEC 27005")
             .col-lg-11
-              p.font_text1.text-bold Gestión de riesgos de seguridad de la información.    
+              p.font_text1.text-bold Gestión de riesgos de seguridad de la información.
               p Ofrece directrices para la gestión de riesgos de seguridad de la información. Esta norma es compatible con los conceptos generales especificados en ISO/IEC 27001 y está diseñada para ayudar a la implementación satisfactoria de la seguridad de la información basada en un enfoque de gestión de riesgos.
           .row(titulo="ISO/IEC 27017")
             .col-lg-11
-              p.font_text1.text-bold Código de prácticas para controles de seguridad de la información basado en ISO/IEC 27002 para servicios en la nube.   
+              p.font_text1.text-bold Código de prácticas para controles de seguridad de la información basado en ISO/IEC 27002 para servicios en la nube.
               p Proporciona pautas que respaldan la implementación de controles de seguridad de la información para consumidores y proveedores de servicios en la nube. La selección de los controles apropiados y la aplicación de la guía de implementación se basa en la evaluación de riesgos y otros requisitos para el uso de servicios en la nube.
           .row(titulo="ISO/IEC 27031")
             .col-lg-11
@@ -285,32 +285,32 @@
           .row(titulo="ISO/IEC 27036-4")
             .col-lg-11
               p.font_text1.text-bold Seguridad de la información para las relaciones con los proveedores -- Parte 4: Pautas para la seguridad de los servicios en la nube.
-              p Define las pautas que respaldan la implementación de SGSI para el uso de servicios en la nube.          
+              p Define las pautas que respaldan la implementación de SGSI para el uso de servicios en la nube.
           .row(titulo="ISO/IEC 27037")
             .col-lg-11
               p.font_text1.text-bold Pautas para la identificación, recopilación, adquisición y conservación de evidencia digital.
               p Proporciona pautas para actividades específicas en el manejo de evidencia digital: identificación, recopilación, adquisición y preservación de evidencia digital potencial que puede tener valor probatorio.
           .row(titulo="ISO/IEC 27039")
             .col-lg-11
-              p.font_text1.text-bold Selección, implementación y operaciones de sistemas de prevención y detección de intrusos (IDPS).    
+              p.font_text1.text-bold Selección, implementación y operaciones de sistemas de prevención y detección de intrusos (IDPS).
               p Brinda pautas para ayudar a las organizaciones a prepararse para implementar IDPS, en particular, aborda la selección, el despliegue y las operaciones de IDPS.
           .row(titulo="ISO/IEC 27043")
             .col-lg-11
-              p.font_text1.text-bold Principios y procesos de investigación de incidentes.   
+              p.font_text1.text-bold Principios y procesos de investigación de incidentes.
               p Ofrece pautas basadas en modelos idealizados para procesos comunes de investigación de incidentes en varios escenarios que involucran evidencia digital. Incluye procesos que van desde la preparación previa al incidente hasta el cierre de la investigación, así como consejos generales y advertencias sobre dichos procesos.
-          .row(titulo="ISO/IEC 27110")
+          .row(titulo="ISO/IEC TS 27110")
             .col-lg-11
-              p.font_text1.text-bold Pautas de desarrollo del marco de ciberseguridad.    
+              p.font_text1.text-bold Pautas de desarrollo del marco de ciberseguridad.
               p Especifica las pautas para desarrollar un marco de ciberseguridad, independientemente del tipo, tamaño o naturaleza de las organizaciones.
-          .row(titulo="ISO/IEC 27570")
+          .row(titulo="ISO/IEC TS 27570")
             .col-lg-11
-              p.font_text1.text-bold Directrices de privacidad para ciudades inteligentes.   
+              p.font_text1.text-bold Directrices de privacidad para ciudades inteligentes.
               p Brinda orientación sobre la protección de la privacidad del ecosistema de ciudades inteligentes: cómo se pueden utilizar las normas a nivel mundial y a nivel organizativo en beneficio de los ciudadanos y procesos para la protección de la privacidad del ecosistema de la ciudad inteligente.
 
     .row.mb-3.pt-4(data-aos="fade-right")
       .col-lg-10
         .bg_34.p-4
-          h3.ms-4.text-white Información de identificación personal (PII) en <em>Cloud Computing </em>  
+          h3.ms-4.text-white Información de identificación personal (PII) en <em>Cloud Computing </em>
 
     .row.mb-4.mb-lg-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
@@ -324,10 +324,10 @@
       .row.mb-5
         .col-lg-10(data-aos="fade-right")
           p El estándar ISO/IEC 27018:2019 (en adelante, ISO/IEC 27018) conocido como <b>"Código de prácticas para la protección de información de identificación personal (PII) en nubes públicas que actúan como procesadores de PII”,</b> es el primer estándar internacional centrado en la protección de datos personales en la nube pública. ISO/ IEC 27018 establece principalmente objetivos de control, controles y pautas comúnmente aceptados en relación con la protección de PII que procesan los proveedores de servicios de la nube pública, es decir, procesadores de PII.
-          p ISO/IEC 27018 ha sido diseñado para todo tipo y tamaño de organización en el sector público y privado que brinde servicios de procesamiento de información a través de la nube como procesadores de PII. 
+          p ISO/IEC 27018 ha sido diseñado para todo tipo y tamaño de organización en el sector público y privado que brinde servicios de procesamiento de información a través de la nube como procesadores de PII.
         .col-lg-2
           .row.justify-content-center
-            .col-auto 
+            .col-auto
               figure(data-aos="fade-down-right")
                 img.img-t.m-auto(src='@/assets/curso/tema2/img12.svg', alt='')
 
@@ -345,41 +345,41 @@
             img.img-t.m-auto(src='@/assets/curso/tema2/img33.svg', alt='')
         .col-lg-7(data-aos="fade-left")
           ul.lista-ul--color
-            li 
+            li
               i.fas.fa-check-circle
               p.m-0 Políticas de seguridad de la información.
-            li 
+            li
               i.fas.fa-check-circle
               p.m-0 Organización de la seguridad de la información.
-            li 
+            li
               i.fas.fa-check-circle
               p.m-0 Seguridad de los recursos humanos.
-            li 
+            li
               i.fas.fa-check-circle
               p.m-0 Control de acceso.
-            li 
+            li
               i.fas.fa-check-circle
               p.m-0 Criptografía.
-            li 
+            li
               i.fas.fa-check-circle
               p.m-0 Seguridad física y ambiental.
-            li 
+            li
               i.fas.fa-check-circle
               p.m-0 Seguridad de las operaciones.
-            li 
+            li
               i.fas.fa-check-circle
-              p.m-0 Seguridad de las comunicaciones. 
-            li 
+              p.m-0 Seguridad de las comunicaciones.
+            li
               i.fas.fa-check-circle
               p.m-0 Gestión de incidentes de seguridad de la información.
-            li 
+            li
               i.fas.fa-check-circle
               p.m-0 Aspectos de seguridad de la información de la gestión de la continuidad del negocio.
-            li 
+            li
               i.fas.fa-check-circle
               p.m-0 Cumplimiento.
 
-    p.mb-5 Para el segundo enfoque, el Anexo A de ISO/IEC 27018 enumera 11 controles extendidos de ISO/IEC 27002 para cumplir con los requisitos de protección de PII que se aplican a los proveedores de servicios de la nube pública que actúan como procesadores de PII. Estos controles ampliados se clasifican según los 11 principios de privacidad de la Norma ISO/IEC 29100:2011 (en lo sucesivo, ISO/IEC 29100), conocida como "Tecnología de la información - Técnicas de seguridad - Marco de privacidad".              
+    p.mb-5 Para el segundo enfoque, el Anexo A de ISO/IEC 27018 enumera 11 controles extendidos de ISO/IEC 27002 para cumplir con los requisitos de protección de PII que se aplican a los proveedores de servicios de la nube pública que actúan como procesadores de PII. Estos controles ampliados se clasifican según los 11 principios de privacidad de la Norma ISO/IEC 29100:2011 (en lo sucesivo, ISO/IEC 29100), conocida como "Tecnología de la información - Técnicas de seguridad - Marco de privacidad".
 
     .row(data-aos="fade-right")
       .col-lg-5
@@ -414,7 +414,7 @@
             .col-lg-10.col-xl-9.col-xxl-10.col-md-8.col-8
               p.m-0 Ayudar al proveedor de servicios de nube pública, que opera en un mercado multinacional, a cumplir con varios estándares nacionales de protección de datos y realizar evaluaciones complejas en cada jurisdicción.
 
-    p <b>ISO/IEC 27001</b> establece una especificación formal para ISMS, con mucho énfasis en el <b>"sistema de gestión"</b> en lugar de la <b>"seguridad de la información"</b>.  Un SGSI certificado proporciona una fuerte indicación de que una organización está utilizando un enfoque sistemático para la identificación, evaluación y gestión de los riesgos de seguridad de la información. Si hay un SGSI efectivo en funcionamiento, entonces, el SGSI garantizará que existan controles de seguridad adecuados. El certificado ISO/IEC 27001 tiene potencial de marketing y debe ayudar a mejorar la credibilidad y aumentar la confianza del cliente.         
+    p <b>ISO/IEC 27001</b> establece una especificación formal para ISMS, con mucho énfasis en el <b>"sistema de gestión"</b> en lugar de la <b>"seguridad de la información"</b>.  Un SGSI certificado proporciona una fuerte indicación de que una organización está utilizando un enfoque sistemático para la identificación, evaluación y gestión de los riesgos de seguridad de la información. Si hay un SGSI efectivo en funcionamiento, entonces, el SGSI garantizará que existan controles de seguridad adecuados. El certificado ISO/IEC 27001 tiene potencial de marketing y debe ayudar a mejorar la credibilidad y aumentar la confianza del cliente.
 
     Separador
 
@@ -436,7 +436,7 @@
               figure
                 img.img-t.mx-auto(src='@/assets/curso/tema2/img40.svg', alt='')
 
-    p Explore algunas categorías de seguridad incluidas en el estándar internacional ISO/IEC 27002: 
+    p Explore algunas categorías de seguridad incluidas en el estándar internacional ISO/IEC 27002:
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-12.col-md-8
@@ -445,7 +445,7 @@
             figure.mb-5
               img.img-t.m-auto(src='@/assets/curso/tema2/img41.png')
             h4.text-white Política de seguridad
-            p.text-white Cada organización debe crear su propio documento de políticas de seguridad de la información, que debe planificarse teniendo en cuenta tanto los requerimientos comerciales propios del negocio, como las leyes y las regulaciones que le apliquen.  
+            p.text-white Cada organización debe crear su propio documento de políticas de seguridad de la información, que debe planificarse teniendo en cuenta tanto los requerimientos comerciales propios del negocio, como las leyes y las regulaciones que le apliquen.
             p.text-white El documento en primera instancia debe ser aprobado por la gerencia y luego socializado a todos los departamentos, jefes, empleados y externos importantes para la compañía.
           .tarjeta.bg_41.p-4
             figure.mb-5
@@ -472,7 +472,7 @@
             figure.mb-5
               img.img-t.m-auto(src='@/assets/curso/tema2/img46.png')
             h4.text-white Gestión de comunicaciones y operaciones
-            p.text-white Orientada a garantizar la operación funcional y segura de los dispositivos encargados de procesar la información.  
+            p.text-white Orientada a garantizar la operación funcional y segura de los dispositivos encargados de procesar la información.
           .tarjeta.bg_41.p-4
             figure.mb-5
               img.img-t.m-auto(src='@/assets/curso/tema2/img47.png')
@@ -507,7 +507,7 @@
           .col-lg-3(data-aos="fade-right")
             figure.mb-5
               img.img-t.m-auto(src='@/assets/curso/tema2/img53.svg')
-          .col-lg-8.col-md-8(data-aos="fade-left")            
+          .col-lg-8.col-md-8(data-aos="fade-left")
             SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
               .tarjeta.bg_45.p-4
                 .row.mb-4
@@ -540,7 +540,7 @@
                       img.img-t(src='@/assets/curso/tema2/img57.svg')
                   .col-2.col-lg-1.align-self-end
                     h4.m_letters D.
-                p Proteger contra los códigos maliciosos y los virus que se puedan descargar e instalar, implementando las medidas de detección, prevención y recuperación (implementación de antivirus con garantía de actualización). 
+                p Proteger contra los códigos maliciosos y los virus que se puedan descargar e instalar, implementando las medidas de detección, prevención y recuperación (implementación de antivirus con garantía de actualización).
               .tarjeta.bg_45.p-4
                 .row.mb-4
                   .col-auto
@@ -590,8 +590,8 @@
                     h4.m_letters J.
                 p De presentarse fallas deberán ser corregidas rápidamente y documentarse para posteriores análisis, que ayuden a la toma de medidas y acciones necesarias.
 
-      h4(data-aos="fade-right") Adquisición y mantenimiento de sistemas de información 
-      p En cuanto a los procesos de adquisición, desarrollo y mantenimiento de los sistemas de información es importante tener en cuenta los siguientes aspectos:               
+      h4(data-aos="fade-right") Adquisición y mantenimiento de sistemas de información
+      p En cuanto a los procesos de adquisición, desarrollo y mantenimiento de los sistemas de información es importante tener en cuenta los siguientes aspectos:
 
       .row.mb-4
         .col-lg-12
@@ -612,28 +612,28 @@
             .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img68.png')})`}")
-              .tarjeta-flip__contenido.bg_47.p-4.p-xl-3              
+              .tarjeta-flip__contenido.bg_47.p-4.p-xl-3
                 p.text-center.flex-center-text Tener claridad sobre las regulaciones de ley aplicables.
 
         .col-sm-6.col-xl-3.mb-4.mb-xl-0
           .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img69.png')})`}")
-              .tarjeta-flip__contenido.bg_47.p-4.p-xl-3              
+              .tarjeta-flip__contenido.bg_47.p-4.p-xl-3
                 p.text-center.flex-center-text Definir con precisión, realizar la documentación y mantener actualizado todo lo necesario para el cumplimiento legal de cada uno de los sistemas informáticos y en general de toda la empresa.
 
         .col-sm-6.col-xl-3.mb-4.mb-xl-0
           .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img70.png')})`}")
-              .tarjeta-flip__contenido.bg_47.p-4.p-xl-3.flex-center-text              
+              .tarjeta-flip__contenido.bg_47.p-4.p-xl-3.flex-center-text
                 p.text-center Implementar procedimientos bien definidos que permitan garantizar el cumplimiento de cada requerimiento a nivel legislativo, regulaciones y acuerdos contractuales con relación a los derechos que existan en cuanto a propiedad intelectual o sobre el uso de <em>software</em> licenciado.
 
         .col-sm-6.col-xl-3
           .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img71.png')})`}")
-              .tarjeta-flip__contenido.bg_47.p-4.p-xl-3              
+              .tarjeta-flip__contenido.bg_47.p-4.p-xl-3
                 p.text-center.flex-center-text Aplicar a la protección que se ofrece a los archivos dentro de la empresa, protección de datos y privacidad de datos personales y, garantizar la prevención de la utilización indebida sobre la aplicabilidad del tratamiento de los datos y las acciones realizadas al control mediante la criptografía.
 
       .row.justify-content-center.mb-4.mb-md-0.mb-lg-5(data-aos="fade-left")
@@ -642,42 +642,42 @@
             .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img72.png')})`}")
-              .tarjeta-flip__contenido.bg_47.p-4.p-xl-3              
+              .tarjeta-flip__contenido.bg_47.p-4.p-xl-3
                 p.text-center.flex-center-text Cada sistema informático con el que cuente la organización debe estar permanentemente bajo supervisión y monitoreo, garantizando el cumplimiento de las normas, estándares y políticas propias de la ciberseguridad en la organización.
         .col-sm-6.col-xl-3.mb-4.mb-xl-0
           .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img73.png')})`}")
-              .tarjeta-flip__contenido.bg_47.p-4.p-xl-3              
+              .tarjeta-flip__contenido.bg_47.p-4.p-xl-3
                 p.text-center.flex-center-text Realizar permanentes auditorías y garantizar que se cumple con los procedimientos establecidos.
 
         .col-sm-6.col-xl-3.mb-4.mb-sm-0
           .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img74.png')})`}")
-              .tarjeta-flip__contenido.bg_47.p-4.p-xl-3.flex-center-text              
+              .tarjeta-flip__contenido.bg_47.p-4.p-xl-3.flex-center-text
                 p.text-center Los controles que se piensen aplicar a la organización o a ciertas áreas deben estar cuidadosamente planificados, con el objetivo de causar el mínimo traumatismo en la operación diaria de la compañía.
 
     Separador
 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
       h2 2.3 ISO 27032
-                
+
     .row.mb-4.mb-lg-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img.img-t.mx-auto(src='@/assets/curso/tema2/img75.png', alt='')
       .col-lg-8(data-aos="fade-left")
-        p.mb-4 La Norma ISO/IEC 27032 surge para el tratamiento de los desafíos asociados a la ciberseguridad, que tienen que ver con la seguridad en el ciberespacio, definiendo los estándares aplicados en este ámbito que cubren falencias que no fueron cubiertas por normas de seguridad creadas anteriormente, ampliando la cobertura en estos temas, toda vez que surgen nuevos y mejorados ataques y aumentan los riesgos que impactan peligrosamente a las compañías. Por otro lado, se gesta una alianza con los involucrados que administran actualmente el entorno, al que normalmente se conoce como el marco de seguridad o CSF (<em>Cybersecurity Framework</em>).     
+        p.mb-4 La Norma ISO/IEC 27032 surge para el tratamiento de los desafíos asociados a la ciberseguridad, que tienen que ver con la seguridad en el ciberespacio, definiendo los estándares aplicados en este ámbito que cubren falencias que no fueron cubiertas por normas de seguridad creadas anteriormente, ampliando la cobertura en estos temas, toda vez que surgen nuevos y mejorados ataques y aumentan los riesgos que impactan peligrosamente a las compañías. Por otro lado, se gesta una alianza con los involucrados que administran actualmente el entorno, al que normalmente se conoce como el marco de seguridad o CSF (<em>Cybersecurity Framework</em>).
         .cajon.color-acento-contenido.p-5
           p.m-0 <b>"El ciberespacio es un entorno complejo que consta de interacciones entre personas, <em>software</em> y servicios destinados a la distribución mundial de información y comunicación"</b>. Se trata de un contexto muy grande en el que <b>"la colaboración es esencial para garantizar un entorno seguro"</b>, aseguró la ISO al momento de presentar este estándar.
 
     p Teniendo en cuenta los desafíos a los que actualmente se enfrentan las organizaciones en temas de ciberseguridad, se plantean cuatro temas importantes siguiendo el estándar de la norma: seguridad de la información, seguridad de las redes, seguridad en Internet y protección de infraestructuras críticas para la información.
 
-    p.mb-5 A la vez que se establece un marco de ciberseguridad de cuatro principales áreas que darán un acercamiento a la gestión del riesgo:  
+    p.mb-5 A la vez que se establece un marco de ciberseguridad de cuatro principales áreas que darán un acercamiento a la gestión del riesgo:
 
     .row.mb-3.mb-lg-5
-      .col-sm-6.col-lg-3.mb-4(data-aos="fade-right")       
+      .col-sm-6.col-lg-3.mb-4(data-aos="fade-right")
         .tarjeta--boton.color-acento-contenido.p-4
           .row.mb-3
             .col-auto
@@ -686,7 +686,7 @@
           h4 Prevención:
           p Consiste en la implementación de procedimientos y controles eficientes que detengan y minimicen los posibles daños que ocasionen situaciones de ciberseguridad.
 
-      .col-sm-6.col-lg-3.mb-4.mb-sm-0(data-aos="fade-right")        
+      .col-sm-6.col-lg-3.mb-4.mb-sm-0(data-aos="fade-right")
         .tarjeta--boton.color-acento-contenido.p-4
           .row.mb-3
             .col-auto
@@ -695,7 +695,7 @@
           h4 Protección y detección:
           p Se establecen un conjunto de controles previstos para gestionar la seguridad y el monitoreo de eventos de ciberseguridad, a fin de que se puedan detectar y aplicar medidas de prevención ante este tipo de circunstancias.
 
-      .col-sm-6.col-lg-3.mb-4.mb-sm-0(data-aos="fade-left")        
+      .col-sm-6.col-lg-3.mb-4.mb-sm-0(data-aos="fade-left")
         .tarjeta--boton.color-acento-contenido.p-4
           .row.mb-3
             .col-auto
@@ -704,7 +704,7 @@
           h4 Respuesta y comunicación:
           p Se debe preparar para reaccionar ante situaciones relacionadas con la ciberseguridad, realizando acciones que ayuden a minimizar su impacto.
 
-      .col-sm-6.col-lg-3.mb-4.mb-sm-0(data-aos="fade-left")        
+      .col-sm-6.col-lg-3.mb-4.mb-sm-0(data-aos="fade-left")
         .tarjeta--boton.color-acento-contenido.p-4
           .row.mb-3
             .col-auto
@@ -721,22 +721,22 @@
           .row(titulo="Entender la organización")
             .col-lg-11
               ul.lista-ul--color
-                li 
+                li
                   i.fas.fa-angle-right
                   | Conocer las diferentes áreas y su relación con el ciberespacio.
-                li 
+                li
                   i.fas.fa-angle-right
                   | Entender el flujo de información en los procesos de la organización.
-                li 
+                li
                   i.fas.fa-angle-right
-                  | Revisar productos, servicios y el marco de la normatividad de la seguridad en uso.  
-                li 
+                  | Revisar productos, servicios y el marco de la normatividad de la seguridad en uso.
+                li
                   i.fas.fa-angle-right
                   | Recopilar el inventario de la documentación de seguridad.
-                li 
+                li
                   i.fas.fa-angle-right
                   | Establecer el inventario de los activos informáticos.
-                li 
+                li
                   i.fas.fa-angle-right
                   | Conocer los planes y las aplicaciones técnicas implementadas en ciberseguridad.
           .row(titulo="Analizar el riesgo")
@@ -747,7 +747,7 @@
               p Establecer un plan que identifique las prioridades y las acciones a desarrollar con el objetivo de buscar la alineación con la norma, al tiempo que se ajuste con las necesidades propias del negocio. El plan puede incluir diferentes estrategias teniendo en cuenta los distintos niveles de la organización: políticos, identificación de roles, métodos de implementación como procesos afectados y controles tecnológicos.
           .row(titulo="Implementación")
             .col-lg-11
-              p Establecer los controles que consideren los niveles de seguridad alcanzados previamente, teniendo en cuenta las políticas y procedimientos de seguridad actuales. 
+              p Establecer los controles que consideren los niveles de seguridad alcanzados previamente, teniendo en cuenta las políticas y procedimientos de seguridad actuales.
               p Controles adicionales a nivel de aplicación (validación de datos, gestión de sesiones, autenticación, seguridad ante ataques), servidores (actualizaciones, control de parches, configuración segura, monitoreo), usuario final (antivirus, parametrización de seguridad, sistema operativo actualizado) e ingeniería social (planes de capacitación, pruebas periódicas, controles de seguridad, bloqueos).
 
 
