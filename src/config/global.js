@@ -44,50 +44,42 @@ export default {
       },
       {
         nombreRuta: 'tema1',
-        icono: 'far fa-file-alt',
         numero: '1',
         titulo:
           'Conceptos y fundamentos asociados a la gestión de la ciberseguridad',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
             numero: '1.1',
             titulo: 'Tipos de redes',
             hash: 't_1_1',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '1.2',
             titulo: 'Modelo OSI',
             hash: 't_1_2',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '1.3',
             titulo: 'Protocolo TCP/IP',
             hash: 't_1_3',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '1.4',
             titulo: 'IPv4 e IPv6',
             hash: 't_1_4',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '1.5',
             titulo: 'Enrutamiento IP',
             hash: 't_1_5',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '1.6',
             titulo: 'Arquitecturas Cloud y On-premises',
             hash: 't_1_6',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '1.7',
             titulo: 'Vulnerabilidad, amenaza y riesgo',
             hash: 't_1_7',
@@ -97,25 +89,21 @@ export default {
 
       {
         nombreRuta: 'tema2',
-        icono: 'far fa-file-alt',
         numero: '2',
         titulo: 'Normatividad y estándares de seguridad de la información',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
             numero: '2.1',
             titulo: 'ISO 27001',
             hash: 't_2_1',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '2.2',
             titulo: 'ISO 27002',
             hash: 't_2_2',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '2.3',
             titulo: 'ISO 27032',
             hash: 't_2_3',
@@ -124,19 +112,16 @@ export default {
       },
       {
         nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
         numero: '3',
         titulo: 'Metodologías para la gestión del riesgo',
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
             numero: '3.1',
             titulo: 'Magerit',
             hash: 't_3_1',
           },
           {
-            icono: 'far fa-file-alt',
             numero: '3.2',
             titulo: 'ISO 31000',
             hash: 't_3_2',
