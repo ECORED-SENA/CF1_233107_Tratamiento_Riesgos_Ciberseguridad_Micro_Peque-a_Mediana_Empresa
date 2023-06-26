@@ -58,8 +58,9 @@
 
 .bg_02
   background-image: url("../assets/curso/tema1/img09.png")
-  border-radius: 20px
-  height: 500px
+  @media (max-width: $bp-max-md)
+    background: #583AE2
+
 
 .bg_03
   background-image: url("../assets/curso/tema1/img11.png")
@@ -77,10 +78,6 @@
 
 .img_position
   position: relative
-
-.fa-check-circle:before
-    content: "\f058"
-    color: #583AE2
 
 .bg_04
   background-image: url("../assets/curso/tema1/img13.png")
@@ -589,13 +586,8 @@
     background-size: cover
 
 .bg_45
-  background-image: url("../assets/curso/tema2/img52-1.svg")
-  background-repeat: no-repeat
-  border-radius: 10px
-  height: 485px
-  @media (max-width: $bp-max-xs)
-    background-image: url("../assets/curso/tema2/img52-2.svg")
-    height: 526px
+  background: #D5CEF8
+
 
 .m_letters
   margin-bottom: -6px
@@ -802,3 +794,31 @@
       position: relative
       margin-right: 7px
       font-size: 1.4rem
+
+.lista-ul--color
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &::before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+.btn-h3
+  position: relative
+  display: inline-block
+  background: #40327B
+  border-start-end-radius: 50px 50px
+  border-end-end-radius: 50px 50px
+  padding: 8px 45px 8px 50px
+  margin-bottom: 1.5rem !important
+  span
+    color: #fff
+  &::before
+    content: ""
+    position: absolute
+    background: url(../assets/curso/bg/bg-btn-h3.svg)
+    width: 40px
+    height: 38px
+    bottom: 0px
+    left: 0px
