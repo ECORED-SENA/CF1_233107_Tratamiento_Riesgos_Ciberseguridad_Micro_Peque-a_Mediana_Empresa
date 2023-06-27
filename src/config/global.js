@@ -325,12 +325,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del ecosistema',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes ',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -347,18 +347,18 @@ export default {
         },
         {
           nombre: 'Maribel Avellaneda Nieves',
-          cargo: 'Diseñadora instruccional',
+          cargo: 'Diseñadora Instruccional',
           centro:
             'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
         },
         {
           nombre: 'Silvia Milena Sequeda Cárdenas',
-          cargo: 'Asesora pedagógica y metodológica',
+          cargo: 'Asesora Pedagógica y Metodológica',
           centro: 'Centro de diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Julia Isabel Roberto',
-          cargo: 'Correctora de estilo',
+          cargo: 'Correctora de Estilo',
           centro: 'Centro de diseño y Metrología - Regional Distrito Capital',
         },
       ],
@@ -387,6 +387,12 @@ export default {
         {
           nombre: 'Carmen Alicia Martínez Torres',
           cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Camilo Andrés Bolaño Rey',
+          cargo: 'Locución',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },

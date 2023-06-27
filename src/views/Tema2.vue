@@ -242,7 +242,7 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="ISO/IEC 27000")
             .col-lg-11
-              span #[strong Sistemas de gestión de la seguridad de la información:] descripción general y vocabulario.
+              span #[strong Sistemas de gestión de la seguridad de la información] #[em (descripción general y vocabulario)].
               p.mt-4 Proporciona una descripción general del SGSI y los términos y definiciones comúnmente utilizados en la familia de estándares del SGSI para garantizar coherencia; toda la familia de Normas 27000 se basa en los términos y definiciones proporcionados en ISO/IEC 27000.
           .row(titulo="ISO/IEC 27003")
             .col-lg-11

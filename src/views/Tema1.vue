@@ -207,7 +207,7 @@
             div
               h4 Aplicación
               p.m-0 Finalmente, la capa 7, último nivel jerarquizado en el modelo OSI.
-              p Esta capa interactúa directamente con el usuario final, por ejemplo, la visualización de una página web cuando se hace una petición a una URL mediante el Protocolo HTTPS o el envío de un correo electrónico mediante el protocolo SMTP.  Son varios los protocolos que se activan, dependiendo la tarea que desee realizar el usuario final.
+              p Esta capa interactúa directamente con el usuario final, por ejemplo, la visualización de una página web cuando se hace una petición a una URL mediante el Protocolo HTTPS o el envío de un correo electrónico mediante el Protocolo SMTP.  Son varios los protocolos que se activan, dependiendo la tarea que desee realizar el usuario final.
           .col-11.col-lg-5.mt-0.mt-md-4
             figure
               img.img-t.m-auto(src='@/assets/curso/tema1/img23.png', alt='Texto que describa la imagen')
@@ -365,7 +365,7 @@
                   img.img-t.m-auto(src='@/assets/curso/tema1/img38.svg' alt="")
               .col-lg-8.col-xl-7.col-xxl-8
                 h4 Capa de aplicación
-            p Proporciona servicios de red que conectan la interfaz con el sistema operativo para que el usuario interactúe con la máquina (enviar correos, descargar información, etc.)
+            p Proporciona servicios de red que conectan la interfaz con el sistema operativo para que el usuario interactúe con la máquina (enviar correos, descargar información, etc.).
           .tarjeta.bg_09.p-4.pt-5
             .row.align-items-center
               .col-auto.mb-4
@@ -797,7 +797,7 @@
 
     p.mb-5 Observe el pronunciamiento que al respecto hace la ley:
 
-    .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
+    .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-5
       h5 Figura 6.
       span <em>Riesgo, amenaza y vulnerabilidad</em>
 
