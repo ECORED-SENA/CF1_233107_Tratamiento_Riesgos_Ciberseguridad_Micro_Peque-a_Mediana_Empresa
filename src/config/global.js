@@ -341,7 +341,7 @@ export default {
       autores: [
         {
           nombre: 'Ronald Alexander Vacca Ascanio',
-          cargo: 'Experto temático',
+          cargo: 'Experto Temático',
           centro:
             'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
         },
