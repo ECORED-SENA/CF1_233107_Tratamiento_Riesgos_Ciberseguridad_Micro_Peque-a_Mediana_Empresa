@@ -179,10 +179,10 @@ export default {
       tema:
         'Conceptos y fundamentos asociados a la gestión de la ciberseguridad',
       referencia:
-        'Arroyo, D., Gayoso, V.  y Hernández, L.  (2020). <em>Ciberseguridad</em>. CSIC. Los Libros de la Catarata. ',
+        'Gayoso Martínez, V., Hernández Encinas, L., & Arroyo Guardeño, D. (2020). Ciberseguridad. CSIC.',
       tipo: 'Libro',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_elibroELB172144',
+        'https://www-digitaliapublishing-com.bdigital.sena.edu.co/a/80863/ciberseguridad',
     },
     {
       tema:
@@ -306,12 +306,6 @@ export default {
     {
       referencia: 'ISO. (s.f.). <em>The ISO Survey</em>. ISO.',
       link: 'https://www.iso.org/the-iso-survey.html',
-    },
-    {
-      referencia:
-        'Ley 1523 de 2012. [Congreso de Colombia]. Por la cual se adopta la política nacional de gestión del riesgo de desastres y se establece el Sistema nacional de gestión del riesgo de desastres y se dictan otras disposiciones. Abril 24 de 2012.',
-      link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=47141',
     },
     {
       referencia:
