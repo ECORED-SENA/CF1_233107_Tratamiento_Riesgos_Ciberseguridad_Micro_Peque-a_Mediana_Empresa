@@ -81,7 +81,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/sSQWQEna6ow" title="Tipos de redes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/01WulhAY6Ts" title="Tipos de redes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Tipos de redes
 
     p.mb-5 Las organizaciones cuentan con uno o varios tipos de red, las cuales se pueden combinar para cumplir objetivos específicos. Una empresa puede iniciar con una oficina pequeña y una red LAN, pero con el tiempo abrir sedes en diferentes ciudades del país y contratar redes WAN para mayor seguridad, aunque con mayores costos, o utilizar el canal público creando canales virtuales de conexión con menor costo, pero que le implica apostar a esquemas de seguridad eficientes.
